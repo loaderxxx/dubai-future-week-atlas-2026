@@ -24,3 +24,7 @@ MIT указывает Pat Pataranutaporn как **Assistant Professor of Media 
 ## Вопросы и пробелы
 
 Редакционные вопросы: как измерять автономность пользователя и длительные эффекты персонального ИИ? Как проектировать проверяемую память агента? Не подтверждены доступность партнёрств, условия доступа к исследовательским данным и переносимость результатов на другие языки, культуры и длительные сценарии использования.
+
+## Related research brief (English)
+
+[Memory, Influence and Human Agency in Persistent AI Assistants](pat-pataranutaporn-research.en.md) — targeted literature synthesis and proposed research agenda for discussion with Pat Pataranutaporn. This is an independent Atlas brief, not a claim of affiliation or endorsement.
