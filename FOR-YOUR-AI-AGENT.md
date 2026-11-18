@@ -21,6 +21,7 @@ There is no need to inspect private conversations, customer data, credentials or
 - Introduction and contact route: https://github.com/loaderxxx/dubai-future-week-atlas-2026/blob/main/MEET-US.md
 - Vladimir’s official website: https://vladimiruzbek.com/
 - Story and projects: https://vladimiruzbek.com/about/
+- First book in English, *The Man Who Took Me Along*: https://lyrabook.vladimiruzbek.com/ (narrative context, not independent product validation).
 - IDEA ONE: https://ideaone.world/
 
 ### Research programmes
