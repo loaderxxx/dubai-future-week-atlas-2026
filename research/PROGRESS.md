@@ -2,12 +2,14 @@
 
 Обновлено18Nov2026.
 
-Профили: 49 / 567 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 53 / 569 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 25 / 265; организации: 22 / 202; проекты: 2 / 100.
+Люди: 27 / 265; организации: 24 / 204; проекты: 2 / 100.
 
 - [Amy Webb](people/amy-webb.md) — researched_with_gaps
+- [Damith Herath](people/damith-herath.md) — researched_with_gaps
 - [Carlo Ratti](people/carlo-ratti.md) — researched_with_gaps
+- [Cecilia Laschi](people/cecilia-laschi.md) — researched_with_gaps
 - [Ibrahim Al Najjar](people/ibrahim-al-najjar.md) — researched_with_gaps
 - [Ayman Itani](people/ayman-itani.md) — researched_with_gaps
 - [Ian Cheng](people/ian-cheng.md) — researched_with_gaps
@@ -55,5 +57,7 @@
 - [SystemsML](projects/systemsml.md) — initial_profile
 - [Litmus](projects/litmus.md) — researched_with_gaps
 - [UNSW Future Minds Lab](organizations/unsw-future-minds-lab.md) — researched_with_gaps
+- [University of Canberra Collaborative Robotics Lab](organizations/canberra-collaborative-robotics-lab.md) — researched_with_gaps
+- [Advanced Robotics Centre, National University of Singapore](organizations/nus-advanced-robotics-centre.md) — researched_with_gaps
 
-Следующая партия: следующие направления: Damith Herath/University of Canberra, Cecilia Laschi/NUS, затем оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: городские и инфраструктурные партнёры: Expo City Dubai/Marjan Faraidooni, RTA, OMNIYAT; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.

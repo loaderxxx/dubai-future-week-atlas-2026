@@ -8,10 +8,10 @@ person,Khalfan Belhoul,https://www.dubaifutureweek.com/en/speakers/khalfan-belho
 person,Amy Webb,https://www.dubaifutureweek.com/en/speakers/amy-webb,researched_with_gaps,research/people/amy-webb.md
 person,Kaname Hayashi,https://www.dubaifutureweek.com/en/speakers/kaname-hayashi,catalogued_not_deeply_researched,
 person,Daan Roosegaarde,https://www.dubaifutureweek.com/en/speakers/daan-roosegaarde,catalogued_not_deeply_researched,
-person,Damith Herath,https://www.dubaifutureweek.com/en/speakers/damith-herath,catalogued_not_deeply_researched,
+person,Damith Herath,https://www.dubaifutureweek.com/en/speakers/damith-herath,researched_with_gaps,research/people/damith-herath.md
 person,Amina Khalil,https://www.dubaifutureweek.com/en/speakers/amina-khalil,catalogued_not_deeply_researched,
 person,Carlo Ratti,https://www.dubaifutureweek.com/en/speakers/carlo-ratti,researched_with_gaps,research/people/carlo-ratti.md
-person,Cecilia Laschi,https://www.dubaifutureweek.com/en/speakers/cecilia-laschi,catalogued_not_deeply_researched,
+person,Cecilia Laschi,https://www.dubaifutureweek.com/en/speakers/cecilia-laschi,researched_with_gaps,research/people/cecilia-laschi.md
 person,Ibrahim Al Najjar,https://www.dubaifutureweek.com/en/speakers/ibrahim-al-najjar,researched_with_gaps,research/people/ibrahim-al-najjar.md
 person,Mohamed Ali,https://www.dubaifutureweek.com/en/speakers/mohamed-ali,catalogued_not_deeply_researched,
 person,Maha Alkhalawi,https://www.dubaifutureweek.com/en/speakers/maha-alkhalawi,catalogued_not_deeply_researched,
@@ -566,3 +566,5 @@ project,Agrinowrap,https://prototypesforhumanity.com/prototypes/agrinowrap,catal
 project,AgriNode ML,https://prototypesforhumanity.com/prototypes/agrinode-ml,catalogued_not_deeply_researched,
 project,Age Resist,https://prototypesforhumanity.com/prototypes/age-resist,catalogued_not_deeply_researched,
 organization,UNSW Future Minds Lab,https://www.futuremindslab.com/,researched_with_gaps,research/organizations/unsw-future-minds-lab.md
+organization,University of Canberra Collaborative Robotics Lab,https://collaborativeroboticslab.github.io/,researched_with_gaps,research/organizations/canberra-collaborative-robotics-lab.md
+organization,"Advanced Robotics Centre, National University of Singapore",https://arc.nus.edu.sg/,researched_with_gaps,research/organizations/nus-advanced-robotics-centre.md
