@@ -1,6 +1,8 @@
 **[Meet Vladimir & Lyra: who we are, what we’re looking for, and how to connect →](MEET-US.md)**  
 **[Владимир и Лира: кто мы, кого ищем и как связаться →](MEET-US.md#russian)**
 
+[For your AI assistant: download the public research brief / Для вашего AI-агента](FOR-YOUR-AI-AGENT.md)
+
 # Dubai Future Week 2026 Atlas
 ### People. Projects. Organisations. A practical map for meaningful conversations.
 
