@@ -30,7 +30,8 @@
 |---|---|---|---|---|
 | 09:00–16:30 | [Global Futures Society Convening](https://www.dubaifutureweek.com/en/programme?session=SESE0AMWZUB) | [Dr Patrick Noack](people/patrick-noack.md) | invite_only | The Policy Room 01 |
 | 09:45–10:15 | [The Readiness Gap](https://www.dubaifutureweek.com/en/programme?session=SES5XO84B4U) | [Amy Webb](people/amy-webb.md) | public | The Big Stage |
-| 10:15–10:45 | [The City That Moves Itself](https://www.dubaifutureweek.com/en/programme?session=SES2IL2F4N0) | [Ibrahim Al Najjar](people/ibrahim-al-najjar.md) | public | The Big Stage |
+| 10:00–11:00 | [Rebrainding](https://www.dubaifutureweek.com/en/programme?session=SESJRB5W7YN) | [Laura Aymerich-Franch](people/laura-aymerich-franch.md) | public | Book Corner |
+| 10:15–10:45 | [The City That Moves Itself](https://www.dubaifutureweek.com/en/programme?session=SES2IL2F4N0) | [Paul Newman](people/paul-newman.md), [Ibrahim Al Najjar](people/ibrahim-al-najjar.md) | public | The Big Stage |
 | 10:15–10:45 | [Acrobot: The Human-Robot Duet](https://www.dubaifutureweek.com/en/programme?session=SESFX4E7LE9) | [Daniel Simu](people/daniel-simu.md) | public | The Challenge Dome |
 | 10:30–12:30 | [Government Foresight Peers: Sensemaking](https://www.dubaifutureweek.com/en/programme?session=SESTCDKBYT6) | [Heba Chehade](people/heba-chehade.md) | invite_only | Dubai Future Auditorium |
 | 10:30–10:40 | [A Big Welcome: Open Labs Edition](https://www.dubaifutureweek.com/en/programme?session=SES4NAVUXWB) | [Carlo Ratti](people/carlo-ratti.md) | invite_only | STARS |
@@ -60,7 +61,7 @@
 
 | Время | Сессия | Изученные спикеры | Доступ | Место |
 |---|---|---|---|---|
-| 10:30–11:05 | [Machine Learning On Data, Not Machine Learning With Data](https://www.dubaifutureweek.com/en/programme?session=SESUVYLI4NC) | [Khalifa Alqama](people/khalifa-alqama.md) | invite_only | STARS |
+| 10:30–11:05 | [Machine Learning On Data, Not Machine Learning With Data](https://www.dubaifutureweek.com/en/programme?session=SESUVYLI4NC) | [Paul Newman](people/paul-newman.md), [Khalifa Alqama](people/khalifa-alqama.md) | invite_only | STARS |
 | 10:30–11:00 | [Scaling for Humans: From Research Rigour to Real-World Users](https://www.dubaifutureweek.com/en/programme?session=SESSO7BCG05) | [Nick Appleyard](people/nick-appleyard.md), [Tadeu Caravieri](people/tadeu-caravieri.md) | public | The Big Stage |
 | 11:05–11:35 | [What Is a Robot Really Worth?](https://www.dubaifutureweek.com/en/programme?session=SESKKBUC4JQ) | [Cecilia Laschi](people/cecilia-laschi.md) | invite_only | STARS |
 | 13:00–13:30 | [Acrobot: The Human-Robot Duet](https://www.dubaifutureweek.com/en/programme?session=SESBWEIKN89) | [Daniel Simu](people/daniel-simu.md) | public | The Challenge Dome |

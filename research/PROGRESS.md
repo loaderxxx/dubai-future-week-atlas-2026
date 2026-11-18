@@ -2,11 +2,11 @@
 
 Обновлено18Nov2026.
 
-Профили: 72 / 570 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 75 / 570 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 37 / 265; организации: 33 / 205; проекты: 2 / 100.
+Люди: 39 / 265; организации: 34 / 205; проекты: 2 / 100.
 
-Статусы: 68 researched_with_gaps; 4 initial_profile. Ни один статус не означает полного аудита.
+Статусы: 71 researched_with_gaps; 4 initial_profile. Ни один статус не означает полного аудита.
 
 - [Marwan Ahmed Bin Ghalita](people/marwan-ahmed-bin-ghalita.md) — researched_with_gaps
 - [Amy Webb](people/amy-webb.md) — researched_with_gaps
@@ -22,11 +22,13 @@
 - [Danny Hillis](people/danny-hillis.md) — researched_with_gaps
 - [Tom Gruber](people/tom-gruber.md) — researched_with_gaps
 - [Julian Bleecker](people/julian-bleecker.md) — researched_with_gaps
+- [Paul Newman](people/paul-newman.md) — researched_with_gaps
 - [Dr Patrick Noack](people/patrick-noack.md) — researched_with_gaps
 - [Khalifa Alqama](people/khalifa-alqama.md) — researched_with_gaps
 - [Lana Abdelhameed](people/lana-abdelhameed.md) — researched_with_gaps
 - [Melanie Subin](people/melanie-subin.md) — researched_with_gaps
 - [Daniel Simu](people/daniel-simu.md) — researched_with_gaps
+- [Laura Aymerich-Franch](people/laura-aymerich-franch.md) — researched_with_gaps
 - [Pat Pataranutaporn](people/pat-pataranutaporn.md) — researched_with_gaps
 - [Yacine Hadjiat](people/yacine-hadjiat.md) — researched_with_gaps
 - [Jude Ower](people/jude-ower.md) — researched_with_gaps
@@ -67,6 +69,7 @@
 - [Malaysia C4IR](organizations/malaysia-c4ir.md) — researched_with_gaps
 - [Meta](organizations/meta.md) — researched_with_gaps
 - [Near Future Laboratory](organizations/near-future-laboratory.md) — researched_with_gaps
+- [Oxa](organizations/oxa.md) — researched_with_gaps
 - [Prototypes for Humanity](organizations/prototypes-for-humanity.md) — researched_with_gaps
 - [RTA](organizations/dubai-rta.md) — researched_with_gaps
 - [Rwanda C4IR](organizations/rwanda-c4ir.md) — researched_with_gaps
@@ -81,4 +84,4 @@
 - [Advanced Robotics Centre, National University of Singapore](organizations/nus-advanced-robotics-centre.md) — researched_with_gaps
 - [OMNIYAT](organizations/omniyat.md) — researched_with_gaps
 
-Следующая партия: городские и инфраструктурные участники: Laura Aymerich-Franch и Paul Newman/Oxa; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: городские и инфраструктурные участники: Roman Axelrod/XPANCEO и Kaname Hayashi/GROOVE X; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
