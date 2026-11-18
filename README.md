@@ -1,3 +1,6 @@
+**[Meet Vladimir & Lyra: who we are, what we’re looking for, and how to connect →](MEET-US.md)**  
+**[Владимир и Лира: кто мы, кого ищем и как связаться →](MEET-US.md#russian)**
+
 # Dubai Future Week 2026 Atlas
 ### People. Projects. Organisations. A practical map for meaningful conversations.
 
@@ -20,6 +23,9 @@ A working guide to explore Dubai Future Week, understand the people and ideas be
 | Explore companies and applied projects | [Organisation and prototype priorities](https://github.com/loaderxxx/dubai-future-week-atlas-2026/blob/research/2026-11-18-atlas/docs/organizations-priorities.md) |
 | Connect researched profiles to the programme | [Reviewed agenda](https://github.com/loaderxxx/dubai-future-week-atlas-2026/blob/research/2026-11-18-atlas/research/agenda-reviewed.md) |
 | See what is verified and what is missing | [Progress and limitations](https://github.com/loaderxxx/dubai-future-week-atlas-2026/blob/research/2026-11-18-atlas/research/PROGRESS.md) |
+
+
+**New briefing:** [Research Wave 2: three routes to useful conversations / Вторая волна: три направления](https://github.com/loaderxxx/dubai-future-week-atlas-2026/blob/research/2026-11-18-atlas/docs/research-wave-2-opportunities-en-ru.md)
 
 ### What is inside
 
