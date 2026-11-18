@@ -23,3 +23,7 @@
 Идентификация → подтверждённая связь с событием → деятельность/продукты/исследования → первичные источники → непроверенное → профессиональные вопросы. Независимая оценка эффективности не подменяется маркетинговым заявлением. Не включаются личные отношения, переписки, финансовые догадки, контакты из приватных аккаунтов, персональные оценки и коммерческие планы конкретного пользователя.
 
 Ни один статус не означает согласие человека на контакт, доступ на закрытую сессию или подтверждённую встречу. Outreach не выполняется.
+
+## English research briefs
+
+- [Memory, Influence and Human Agency in Persistent AI Assistants](people/pat-pataranutaporn-research.en.md): evidence, limitations and a proposed research agenda for discussion with [Pat Pataranutaporn](people/pat-pataranutaporn.md). Independent research brief; no affiliation or endorsement implied.
