@@ -41,8 +41,10 @@
 | 12:00–13:00 | [Pitch of the Future: Heat & Climate Adapted Infrastructure](https://www.dubaifutureweek.com/en/programme?session=SESZYVK5L0N) | [Hana Alzarooni](people/hana-alzarooni.md) | invite_only | The Pitch |
 | 12:00–13:00 | [Claude for Government: From Shadow AI to Safe AI Use](https://www.dubaifutureweek.com/en/programme?session=SES9SPGKYKE) | [Ayman Itani](people/ayman-itani.md) | invite_only | Partner's Lounge |
 | 12:30–13:30 | [Government Foresight Peers: In Practice](https://www.dubaifutureweek.com/en/programme?session=SES0PGE6SF3) | [Heba Ahmad](people/heba-ahmad.md) | invite_only | Dubai Future Auditorium |
+| 13:45–14:00 | [Beyond Screens: A New Layer of Human Capability](https://www.dubaifutureweek.com/en/programme?session=SESMR981WUG) | [Roman Axelrod](people/roman-axelrod.md) | public | The Challenge Dome |
 | 14:00–16:00 | [An Expedition into Possibility: A Design Fiction Workshop](https://www.dubaifutureweek.com/en/programme?session=SESN4Y9VLLZ) | [Julian Bleecker](people/julian-bleecker.md) | public | The Learning Centre |
 | 14:00–15:00 | [Sector Final: Heat & Climate-Adapted Infrastructure](https://www.dubaifutureweek.com/en/programme?session=SESP465QC63) | [Hana Alzarooni](people/hana-alzarooni.md) | invite_only | The Pitch |
+| 15:00–15:15 | [Robots will Make Us More Human, Actually](https://www.dubaifutureweek.com/en/programme?session=SES78M8WBUM) | [Kaname Hayashi](people/kaname-hayashi.md) | public | The Big Stage |
 | 15:30–16:10 | [Can We Design Cities That Breathe?](https://www.dubaifutureweek.com/en/programme?session=SESDY7M8OZ0) | [Marjan Faraidooni](people/marjan-faraidooni.md) | public | The Big Stage |
 | 16:00–17:30 | [Claude As Your Co-Founder](https://www.dubaifutureweek.com/en/programme?session=SESL7KFKA0H) | [Ayman Itani](people/ayman-itani.md) | public | The Work Room 02 |
 | 16:15–16:30 | [Where the Research Goes Next](https://www.dubaifutureweek.com/en/programme?session=SESEATI8FHG) | [Carlo Ratti](people/carlo-ratti.md) | invite_only | STARS |
@@ -52,6 +54,7 @@
 | Время | Сессия | Изученные спикеры | Доступ | Место |
 |---|---|---|---|---|
 | 09:00–10:00 | [Hackathon Final: AI Mobility](https://www.dubaifutureweek.com/en/programme?session=SESU3QNJ5DS) | [Tammer Qaddumi](people/tammer-qaddumi.md) | invite_only | The Pitch |
+| 09:00–15:00 | [The Next Interface for the Human of the Future](https://www.dubaifutureweek.com/en/programme?session=SESIRBO8EJM) | [Roman Axelrod](people/roman-axelrod.md) | invite_only | Dubai Future Auditorium |
 | 09:30–09:40 | [The New Age of Industrial Innovation](https://www.dubaifutureweek.com/en/programme?session=SESDVEGZQII) | [Marc Carette](people/marc-carette.md) | public | The Big Stage |
 | 09:40–10:20 | [Foresight Without Borders](https://www.dubaifutureweek.com/en/programme?session=SES9WBK0A5S) | [Dr Patrick Noack](people/patrick-noack.md) | public | The Big Stage |
 | 11:00–12:00 | [Sector Final: Urban Life Systems](https://www.dubaifutureweek.com/en/programme?session=SESF0ZEA2AK) | [Tammer Qaddumi](people/tammer-qaddumi.md) | invite_only | The Pitch |

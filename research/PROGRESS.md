@@ -2,14 +2,15 @@
 
 Обновлено18Nov2026.
 
-Профили: 75 / 570 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 78 / 570 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 39 / 265; организации: 34 / 205; проекты: 2 / 100.
+Люди: 41 / 265; организации: 35 / 205; проекты: 2 / 100.
 
-Статусы: 71 researched_with_gaps; 4 initial_profile. Ни один статус не означает полного аудита.
+Статусы: 74 researched_with_gaps; 4 initial_profile. Ни один статус не означает полного аудита.
 
 - [Marwan Ahmed Bin Ghalita](people/marwan-ahmed-bin-ghalita.md) — researched_with_gaps
 - [Amy Webb](people/amy-webb.md) — researched_with_gaps
+- [Kaname Hayashi](people/kaname-hayashi.md) — researched_with_gaps
 - [Damith Herath](people/damith-herath.md) — researched_with_gaps
 - [Carlo Ratti](people/carlo-ratti.md) — researched_with_gaps
 - [Cecilia Laschi](people/cecilia-laschi.md) — researched_with_gaps
@@ -33,6 +34,7 @@
 - [Yacine Hadjiat](people/yacine-hadjiat.md) — researched_with_gaps
 - [Jude Ower](people/jude-ower.md) — researched_with_gaps
 - [Cyprien Nshimiyimana](people/cyprien-nshimiyimana.md) — researched_with_gaps
+- [Roman Axelrod](people/roman-axelrod.md) — researched_with_gaps
 - [Joel Pearson](people/joel-pearson.md) — researched_with_gaps
 - [Heba Chehade](people/heba-chehade.md) — researched_with_gaps
 - [Tadeu Caravieri](people/tadeu-caravieri.md) — researched_with_gaps
@@ -62,6 +64,7 @@
 - [European Space Agency](organizations/european-space-agency.md) — researched_with_gaps
 - [Expo City Dubai](organizations/expo-city-dubai.md) — researched_with_gaps
 - [Future Today Strategy Group](organizations/ftsg.md) — researched_with_gaps
+- [GROOVE X](organizations/groove-x.md) — researched_with_gaps
 - [Good Game Club](organizations/good-game-club.md) — researched_with_gaps
 - [Humanistic.AI](organizations/humanistic-ai.md) — researched_with_gaps
 - [Keeta Drone](organizations/keeta-drone.md) — researched_with_gaps
@@ -84,4 +87,4 @@
 - [Advanced Robotics Centre, National University of Singapore](organizations/nus-advanced-robotics-centre.md) — researched_with_gaps
 - [OMNIYAT](organizations/omniyat.md) — researched_with_gaps
 
-Следующая партия: городские и инфраструктурные участники: Roman Axelrod/XPANCEO и Kaname Hayashi/GROOVE X; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: городские и инфраструктурные участники: Nic Palmarini/National Innovation Centre for Ageing и Tina Woods/Collider Health; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.

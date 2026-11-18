@@ -10,6 +10,16 @@ XPANCEO разрабатывает smart contact lenses как интерфей�
 
 В апреле 2026 XPANCEO и ITEN объявили proof of concept интеграции твердотельной микробатареи. Само сообщение подчёркивает ограничения толщины, массы, тепловыделения и биосовместимости. В июле объявлена следующая фаза работы с JBD над микродисплеем для линзы. Это сообщения разработчика о сотрудничестве, не регуляторные разрешения. [ITEN](https://xpanceo.com/newsroom/xpanceo-and-iten-create-proof-of-concept-for-smart-lens-with-integrated-solid-state-battery), [JBD](https://xpanceo.com/newsroom/xpanceo-and-jbd-take-ar-to-the-next-level-with-custom-micro-display-for-smart-contact-lenses).
 
+## Обновление: материалы и производимость, октябрь 2026
+
+1 октября XPANCEO объявила сотрудничество с Contamac: интеграция оптических компонентов в офтальмологические полимеры и проработка воспроизводимого производства. Сообщается о прототипировании на жёсткой линзе; мягкие и жёсткие варианты исследуются, проверяются составы полимеров и условия отверждения, чтобы исключить швы, расслоение и локальное утолщение. Это конкретная инженерная стадия, не доказательство безопасного ежедневного ношения готового продукта. Упоминание материалов Contamac, применяемых в FDA-cleared устройствах, **не означает FDA clearance всей линзы XPANCEO**. [Официальное сообщение, 1 октября](https://www.xpanceo.com/newsroom/xpanceo-partners-with-contamac-to-advance-ar-contact-lenses-leveraging-materials-used-in-fda-cleared-ophthalmic-devices).
+
+## Dubai Future Week и доступ
+
+Roman Axelrod выступает с **Beyond Screens: A New Layer of Human Capability**, 19 ноября, 13:45–14:00, The Challenge Dome, Emirates Towers Outdoors in The District, доступ **public**. [Программа](https://www.dubaifutureweek.com/en/programme?session=SESMR981WUG).
+
+**The Next Interface for the Human of the Future**, 20 ноября, 09:00–15:00, Dubai Future Auditorium, Emirates Towers First Floor: симпозиум с Axelrod и Valentyn Volkov, доступ **invite_only**. XPANCEO указана партнёром. Интервал относится к симпозиуму целиком; личные слоты и возможность испытать линзу участником не подтверждены. [Программа](https://www.dubaifutureweek.com/en/programme?session=SESIRBO8EJM).
+
 ## Аналитическая рамка
 
 Редакционная гипотеза: наиболее содержательный AI-разговор здесь касается интерфейса человека с непрерывно доступной системой, а не автоматизации офисного документооборота. Потенциальные вопросы — какие события действительно заслуживают внимания, как пользователь отменяет действие, где выполняется inference и как минимизируется передача сенсорных данных. Из присутствия AI в позиционировании нельзя заключать, что компания ищет внешнего поставщика агентной оркестрации.
