@@ -14,3 +14,5 @@
 - **UNSW / Future Minds Lab**: профиль лаборатории не покрывает весь университет. Лаборатория добавлена отдельной подтверждённой записью; поэтому очередь расширена с 566 до 567, а не искусственно помечен исследованным весь UNSW. [Университетское подтверждение](https://research.unsw.edu.au/people/professor-joel-pearson).
 
 - **University of Canberra / Collaborative Robotics Lab; NUS / Advanced Robotics Centre**: две лаборатории добавлены как отдельные записи, а не как эквиваленты университетов. Очередь после этой партии569. Источники: [CRL](https://collaborativeroboticslab.github.io/), [ARC](https://arc.nus.edu.sg/).
+
+- **Expo City / Expo City Dubai**: профиль покрывает каноническую запись Expo City Dubai; алиас Expo City пока не добавляет исследованную сущность. **RTA** здесь означает Roads and Transport Authority Dubai, не Department of Municipalities and Transport Abu Dhabi. **OMNIYAT** добавлен отдельной организацией по официальному списку Strategic Partners DFW, а не по предположению об участии спикера. Очередь после партии: 570 записей. [DFW](https://www.dubaifutureweek.com/en).

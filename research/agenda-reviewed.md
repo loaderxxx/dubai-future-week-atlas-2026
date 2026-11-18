@@ -36,6 +36,7 @@
 | 11:50–12:50 | [How Cities Adapt to a Changing Climate](https://www.dubaifutureweek.com/en/programme?session=SESHMTTH7IX) | [Khalifa Alqama](people/khalifa-alqama.md) | invite_only | STARS |
 | 12:00–13:00 | [Claude for Government: From Shadow AI to Safe AI Use](https://www.dubaifutureweek.com/en/programme?session=SES9SPGKYKE) | [Ayman Itani](people/ayman-itani.md) | invite_only | Partner's Lounge |
 | 12:30–13:30 | [Government Foresight Peers: In Practice](https://www.dubaifutureweek.com/en/programme?session=SES0PGE6SF3) | [Heba Ahmad](people/heba-ahmad.md) | invite_only | Dubai Future Auditorium |
+| 15:30–16:10 | [Can We Design Cities That Breathe?](https://www.dubaifutureweek.com/en/programme?session=SESDY7M8OZ0) | [Marjan Faraidooni](people/marjan-faraidooni.md) | public | The Big Stage |
 | 16:00–17:30 | [Claude As Your Co-Founder](https://www.dubaifutureweek.com/en/programme?session=SESL7KFKA0H) | [Ayman Itani](people/ayman-itani.md) | public | The Work Room 02 |
 | 16:15–16:30 | [Where the Research Goes Next](https://www.dubaifutureweek.com/en/programme?session=SESEATI8FHG) | [Carlo Ratti](people/carlo-ratti.md) | invite_only | STARS |
 

@@ -181,7 +181,7 @@ person,Tadeu Caravieri,https://www.dubaifutureweek.com/en/speakers/tadeu-caravie
 person,Bryonie Guthrie,https://www.dubaifutureweek.com/en/speakers/bryonie-guthrie,catalogued_not_deeply_researched,
 person,Kira Jean,https://www.dubaifutureweek.com/en/speakers/kira-jean,catalogued_not_deeply_researched,
 person,Alex Hellawell,https://www.dubaifutureweek.com/en/speakers/alex-hellawell,catalogued_not_deeply_researched,
-person,Marjan Faraidooni,https://www.dubaifutureweek.com/en/speakers/marjan-faraidooni,catalogued_not_deeply_researched,
+person,Marjan Faraidooni,https://www.dubaifutureweek.com/en/speakers/marjan-faraidooni,researched_with_gaps,research/people/marjan-faraidooni.md
 person,Mohamad Al Hamaida,https://www.dubaifutureweek.com/en/speakers/mohamad-al-hamaida,catalogued_not_deeply_researched,
 person,Adrian Marcellus,https://www.dubaifutureweek.com/en/speakers/adrian-marcellus,researched_with_gaps,research/people/adrian-marcellus.md
 person,Alwud Alfalasi,https://www.dubaifutureweek.com/en/speakers/alwud-alfalasi,catalogued_not_deeply_researched,
@@ -321,7 +321,7 @@ organization,Emma Bache Graphology,https://www.dubaifutureweek.com/en/speakers/e
 organization,Ethics,https://www.dubaifutureweek.com/en/speakers/maxime-rovere,catalogued_not_deeply_researched,
 organization,European Space Agency,https://www.dubaifutureweek.com/en/speakers/nick-appleyard,researched_with_gaps,research/organizations/european-space-agency.md
 organization,Expo City,https://www.dubaifutureweek.com/en/speakers/andrew-cockburn,catalogued_not_deeply_researched,
-organization,Expo City Dubai,https://www.dubaifutureweek.com/en/speakers/reem-bint-ebrahim-al-hashimy,catalogued_not_deeply_researched,
+organization,Expo City Dubai,https://www.dubaifutureweek.com/en/speakers/reem-bint-ebrahim-al-hashimy,researched_with_gaps,research/organizations/expo-city-dubai.md
 organization,FTSG,https://www.dubaifutureweek.com/en/speakers/melanie-subin,catalogued_not_deeply_researched,
 organization,Feminist Futures,https://www.dubaifutureweek.com/en/speakers/thays-prado,catalogued_not_deeply_researched,
 organization,Forbes Middle East,https://www.dubaifutureweek.com/en/speakers/sally-mousa,catalogued_not_deeply_researched,
@@ -404,7 +404,7 @@ organization,PepsiCo,https://www.dubaifutureweek.com/en/speakers/wael-ismail,cat
 organization,Pharmanautix,https://www.dubaifutureweek.com/en/speakers/giulio-deangeli,catalogued_not_deeply_researched,
 organization,Prototypes for Humanity,https://www.dubaifutureweek.com/en/speakers/fred-sicre,researched_with_gaps,research/organizations/prototypes-for-humanity.md
 organization,PwC,https://www.dubaifutureweek.com/en/speakers/khaled-bin-braik,catalogued_not_deeply_researched,
-organization,RTA,https://www.dubaifutureweek.com/en/speakers/bader-almasoum,catalogued_not_deeply_researched,
+organization,RTA,https://www.dubaifutureweek.com/en/speakers/bader-almasoum,researched_with_gaps,research/organizations/dubai-rta.md
 organization,Rainshadow Films,https://www.dubaifutureweek.com/en/speakers/ben-ayers,catalogued_not_deeply_researched,
 organization,Renee Kaspar Labs,https://www.dubaifutureweek.com/en/speakers/renee-kaspar,catalogued_not_deeply_researched,
 organization,Rentify,https://www.dubaifutureweek.com/en/speakers/rajneel-kumar,catalogued_not_deeply_researched,
@@ -568,3 +568,4 @@ project,Age Resist,https://prototypesforhumanity.com/prototypes/age-resist,catal
 organization,UNSW Future Minds Lab,https://www.futuremindslab.com/,researched_with_gaps,research/organizations/unsw-future-minds-lab.md
 organization,University of Canberra Collaborative Robotics Lab,https://collaborativeroboticslab.github.io/,researched_with_gaps,research/organizations/canberra-collaborative-robotics-lab.md
 organization,"Advanced Robotics Centre, National University of Singapore",https://arc.nus.edu.sg/,researched_with_gaps,research/organizations/nus-advanced-robotics-centre.md
+organization,OMNIYAT,https://www.dubaifutureweek.com/en,researched_with_gaps,research/organizations/omniyat.md

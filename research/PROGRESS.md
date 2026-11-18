@@ -2,9 +2,9 @@
 
 Обновлено18Nov2026.
 
-Профили: 53 / 569 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 57 / 570 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 27 / 265; организации: 24 / 204; проекты: 2 / 100.
+Люди: 28 / 265; организации: 27 / 205; проекты: 2 / 100.
 
 - [Amy Webb](people/amy-webb.md) — researched_with_gaps
 - [Damith Herath](people/damith-herath.md) — researched_with_gaps
@@ -28,6 +28,7 @@
 - [Joel Pearson](people/joel-pearson.md) — researched_with_gaps
 - [Heba Chehade](people/heba-chehade.md) — researched_with_gaps
 - [Tadeu Caravieri](people/tadeu-caravieri.md) — researched_with_gaps
+- [Marjan Faraidooni](people/marjan-faraidooni.md) — researched_with_gaps
 - [Adrian Marcellus](people/adrian-marcellus.md) — researched_with_gaps
 - [Abdulla Alzarouni](people/abdulla-alzarouni.md) — initial_profile
 - [Nick Appleyard](people/nick-appleyard.md) — researched_with_gaps
@@ -42,6 +43,7 @@
 - [Dubai Health](organizations/dubai-health.md) — researched_with_gaps
 - [Dubai International Financial Centre (DIFC)](organizations/difc.md) — researched_with_gaps
 - [European Space Agency](organizations/european-space-agency.md) — researched_with_gaps
+- [Expo City Dubai](organizations/expo-city-dubai.md) — researched_with_gaps
 - [Future Today Strategy Group](organizations/ftsg.md) — researched_with_gaps
 - [Humanistic.AI](organizations/humanistic-ai.md) — researched_with_gaps
 - [Keeta Drone](organizations/keeta-drone.md) — researched_with_gaps
@@ -49,6 +51,7 @@
 - [Malaysia C4IR](organizations/malaysia-c4ir.md) — researched_with_gaps
 - [Meta](organizations/meta.md) — researched_with_gaps
 - [Prototypes for Humanity](organizations/prototypes-for-humanity.md) — researched_with_gaps
+- [RTA](organizations/dubai-rta.md) — researched_with_gaps
 - [Rwanda C4IR](organizations/rwanda-c4ir.md) — researched_with_gaps
 - [Think Media Labs](organizations/think-media-labs.md) — researched_with_gaps
 - [Uber](organizations/uber.md) — researched_with_gaps
@@ -59,5 +62,6 @@
 - [UNSW Future Minds Lab](organizations/unsw-future-minds-lab.md) — researched_with_gaps
 - [University of Canberra Collaborative Robotics Lab](organizations/canberra-collaborative-robotics-lab.md) — researched_with_gaps
 - [Advanced Robotics Centre, National University of Singapore](organizations/nus-advanced-robotics-centre.md) — researched_with_gaps
+- [OMNIYAT](organizations/omniyat.md) — researched_with_gaps
 
-Следующая партия: городские и инфраструктурные партнёры: Expo City Dubai/Marjan Faraidooni, RTA, OMNIYAT; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: городские и инфраструктурные участники: Dubai Municipality/Hana Alzarooni, Khaled Al Awadhi и Ahmad Bahrozyan (RTA); далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
