@@ -2,10 +2,13 @@
 
 Обновлено18Nov2026.
 
-Профили: 61 / 570 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 64 / 570 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 31 / 265; организации: 28 / 205; проекты: 2 / 100.
+Люди: 33 / 265; организации: 29 / 205; проекты: 2 / 100.
 
+Статусы: 61 researched_with_gaps; 3 initial_profile. Ни один статус не означает полного аудита.
+
+- [Marwan Ahmed Bin Ghalita](people/marwan-ahmed-bin-ghalita.md) — researched_with_gaps
 - [Amy Webb](people/amy-webb.md) — researched_with_gaps
 - [Damith Herath](people/damith-herath.md) — researched_with_gaps
 - [Carlo Ratti](people/carlo-ratti.md) — researched_with_gaps
@@ -34,6 +37,7 @@
 - [Hana Alzarooni](people/hana-alzarooni.md) — initial_profile
 - [Abdulla Alzarouni](people/abdulla-alzarouni.md) — initial_profile
 - [Ahmad Bahrozyan](people/ahmad-bahrozyan.md) — researched_with_gaps
+- [Marc Carette](people/marc-carette.md) — researched_with_gaps
 - [Nick Appleyard](people/nick-appleyard.md) — researched_with_gaps
 - [Atif Albreiki](people/atif-albreiki.md) — researched_with_gaps
 - [Heba Ahmad](people/heba-ahmad.md) — researched_with_gaps
@@ -46,6 +50,7 @@
 - [Dubai Health](organizations/dubai-health.md) — researched_with_gaps
 - [Dubai International Financial Centre (DIFC)](organizations/difc.md) — researched_with_gaps
 - [Dubai Municipality](organizations/dubai-municipality.md) — researched_with_gaps
+- [Emirates Global Aluminium](organizations/emirates-global-aluminium.md) — researched_with_gaps
 - [European Space Agency](organizations/european-space-agency.md) — researched_with_gaps
 - [Expo City Dubai](organizations/expo-city-dubai.md) — researched_with_gaps
 - [Future Today Strategy Group](organizations/ftsg.md) — researched_with_gaps
@@ -68,4 +73,4 @@
 - [Advanced Robotics Centre, National University of Singapore](organizations/nus-advanced-robotics-centre.md) — researched_with_gaps
 - [OMNIYAT](organizations/omniyat.md) — researched_with_gaps
 
-Следующая партия: городские и инфраструктурные участники: Marwan Ahmed Bin Ghalita, Emirates Global Aluminium и Marc Carette; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: городские и инфраструктурные участники: Dubai Media Incorporated/Atheer Bin Shakar, Dubai Films and Games Commission/Faisal Kazim; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.

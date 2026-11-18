@@ -1,7 +1,7 @@
 entity_type,name,source_url,status,profile
 person,Abdulla bin Mohammed bin Butti Al Hamed,https://www.dubaifutureweek.com/en/speakers/abdulla-bin-mohammed-bin-butti-al-hamed,catalogued_not_deeply_researched,
 person,Reem bint Ebrahim Al Hashimy,https://www.dubaifutureweek.com/en/speakers/reem-bint-ebrahim-al-hashimy,catalogued_not_deeply_researched,
-person,Marwan Ahmed Bin Ghalita,https://www.dubaifutureweek.com/en/speakers/marwan-ahmed-bin-ghalita,catalogued_not_deeply_researched,
+person,Marwan Ahmed Bin Ghalita,https://www.dubaifutureweek.com/en/speakers/marwan-ahmed-bin-ghalita,researched_with_gaps,research/people/marwan-ahmed-bin-ghalita.md
 person,Maryam AlHammadi,https://www.dubaifutureweek.com/en/speakers/maryam-alhammadi,catalogued_not_deeply_researched,
 person,Ohood Al Roumi,https://www.dubaifutureweek.com/en/speakers/ohood-al-roumi,catalogued_not_deeply_researched,
 person,Khalfan Belhoul,https://www.dubaifutureweek.com/en/speakers/khalfan-belhoul,catalogued_not_deeply_researched,
@@ -204,7 +204,7 @@ person,Mohamed Al Mufti,https://www.dubaifutureweek.com/en/speakers/mohamed-al-m
 person,Fulvio Opalio,https://www.dubaifutureweek.com/en/speakers/fulvio-opalio,catalogued_not_deeply_researched,
 person,Saif Al Sabbagh,https://www.dubaifutureweek.com/en/speakers/saif-al-sabbagh,catalogued_not_deeply_researched,
 person,Habiba Elkholy,https://www.dubaifutureweek.com/en/speakers/habiba-elkholy,catalogued_not_deeply_researched,
-person,Marc Carette,https://www.dubaifutureweek.com/en/speakers/marc-carette,catalogued_not_deeply_researched,
+person,Marc Carette,https://www.dubaifutureweek.com/en/speakers/marc-carette,researched_with_gaps,research/people/marc-carette.md
 person,Sahil Arora,https://www.dubaifutureweek.com/en/speakers/sahil-arora,catalogued_not_deeply_researched,
 person,Lara Varjabedian,https://www.dubaifutureweek.com/en/speakers/lara-varjabedian,catalogued_not_deeply_researched,
 person,Jinane Mounsef,https://www.dubaifutureweek.com/en/speakers/jinane-mounsef,catalogued_not_deeply_researched,
@@ -315,7 +315,7 @@ organization,Dubai Police,https://www.dubaifutureweek.com/en/speakers/maitha-alm
 organization,Dunkin Lebanon & Semsom,https://www.dubaifutureweek.com/en/speakers/christine-assouad,catalogued_not_deeply_researched,
 organization,"Dutco Cleantech, Dutco Group",https://www.dubaifutureweek.com/en/speakers/sami-kamel,catalogued_not_deeply_researched,
 organization,ETH Zurich,https://prototypesforhumanity.com/latestnews/press/2026summit,catalogued_not_deeply_researched,
-organization,Emirates Global Aluminium,https://www.dubaifutureweek.com/en/speakers/marc-carette,catalogued_not_deeply_researched,
+organization,Emirates Global Aluminium,https://www.dubaifutureweek.com/en/speakers/marc-carette,researched_with_gaps,research/organizations/emirates-global-aluminium.md
 organization,Emirates Literature Foundation,https://www.dubaifutureweek.com/en/speakers/maha-alkhalawi,catalogued_not_deeply_researched,
 organization,Emma Bache Graphology,https://www.dubaifutureweek.com/en/speakers/emma-bache,catalogued_not_deeply_researched,
 organization,Ethics,https://www.dubaifutureweek.com/en/speakers/maxime-rovere,catalogued_not_deeply_researched,

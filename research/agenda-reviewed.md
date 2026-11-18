@@ -33,6 +33,7 @@
 | 10:15–10:45 | [Acrobot: The Human-Robot Duet](https://www.dubaifutureweek.com/en/programme?session=SESFX4E7LE9) | [Daniel Simu](people/daniel-simu.md) | public | The Challenge Dome |
 | 10:30–12:30 | [Government Foresight Peers: Sensemaking](https://www.dubaifutureweek.com/en/programme?session=SESTCDKBYT6) | [Heba Chehade](people/heba-chehade.md) | invite_only | Dubai Future Auditorium |
 | 10:30–10:40 | [A Big Welcome: Open Labs Edition](https://www.dubaifutureweek.com/en/programme?session=SES4NAVUXWB) | [Carlo Ratti](people/carlo-ratti.md) | invite_only | STARS |
+| 11:00–11:30 | [The City That Never Sleeps](https://www.dubaifutureweek.com/en/programme?session=SES1PK86JLQ) | [Marwan Ahmed Bin Ghalita](people/marwan-ahmed-bin-ghalita.md) | public | The Challenge Dome |
 | 11:50–12:50 | [How Cities Adapt to a Changing Climate](https://www.dubaifutureweek.com/en/programme?session=SESHMTTH7IX) | [Khalifa Alqama](people/khalifa-alqama.md) | invite_only | STARS |
 | 12:00–13:00 | [Pitch of the Future: Heat & Climate Adapted Infrastructure](https://www.dubaifutureweek.com/en/programme?session=SESZYVK5L0N) | [Hana Alzarooni](people/hana-alzarooni.md) | invite_only | The Pitch |
 | 12:00–13:00 | [Claude for Government: From Shadow AI to Safe AI Use](https://www.dubaifutureweek.com/en/programme?session=SES9SPGKYKE) | [Ayman Itani](people/ayman-itani.md) | invite_only | Partner's Lounge |
@@ -47,6 +48,7 @@
 | Время | Сессия | Изученные спикеры | Доступ | Место |
 |---|---|---|---|---|
 | 09:00–10:00 | [Hackathon Final: AI Mobility](https://www.dubaifutureweek.com/en/programme?session=SESU3QNJ5DS) | [Tammer Qaddumi](people/tammer-qaddumi.md) | invite_only | The Pitch |
+| 09:30–09:40 | [The New Age of Industrial Innovation](https://www.dubaifutureweek.com/en/programme?session=SESDVEGZQII) | [Marc Carette](people/marc-carette.md) | public | The Big Stage |
 | 09:40–10:20 | [Foresight Without Borders](https://www.dubaifutureweek.com/en/programme?session=SES9WBK0A5S) | [Dr Patrick Noack](people/patrick-noack.md) | public | The Big Stage |
 | 11:00–12:00 | [Sector Final: Urban Life Systems](https://www.dubaifutureweek.com/en/programme?session=SESF0ZEA2AK) | [Tammer Qaddumi](people/tammer-qaddumi.md) | invite_only | The Pitch |
 | 15:40–16:00 | [What Will You Do on Monday?](https://www.dubaifutureweek.com/en/programme?session=SES3RKDKRQU) | [Dr Patrick Noack](people/patrick-noack.md) | public | The Big Stage |
