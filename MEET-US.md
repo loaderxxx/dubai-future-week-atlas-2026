@@ -29,6 +29,27 @@ A narrow, measurable pilot is more useful than a promise to “automate everythi
 
 We are developing and testing our tools. Capabilities, scope and production readiness need to be demonstrated for each project; this page does not claim complete autonomy or any partnership with the organisations in the atlas.
 
+## Explore our public work
+
+### Websites and background
+- **[Vladimir’s story and projects](https://vladimiruzbek.com/about/)**.
+- **[IDEA ONE](https://ideaone.world/)** — AI products and business systems.
+
+### Research programmes
+- **[Open Research Institute (ORI)](https://github.com/loaderxxx/open-research-institute/blob/main/README.en.md)** · [Website](https://ori-lab.org/) — independent research across nature, intelligence and society.
+- **[COSMOSYNTH / Cosmic Programme](https://github.com/loaderxxx/Cosmic-Programm)** · [Website](https://cosmosynth.org/) — space-systems research, capability mapping and evidence-based engineering questions; not an operational space programme.
+
+### Atlases and evidence libraries
+- **[Dubai Future Week Atlas](https://github.com/loaderxxx/dubai-future-week-atlas-2026)** — this source-linked event research.
+- **[Dubai AI Festival Research Atlas](https://github.com/loaderxxx/Dubai-ai-festival)** — companies, capabilities and testable collaboration questions.
+- **[Dubai Business Atlas](https://github.com/loaderxxx/dubai-business-atlas)** — a public-data pilot focused initially on Bay Square; not a live tenant register.
+- **[Satellite Industry Capability Atlas](https://github.com/loaderxxx/Cosmic-Programm/blob/main/EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/README.md)** — a partial CABSAT / SATExpo research sample with source registers.
+
+These links point to public materials. Research findings and proposed concepts should not be mistaken for deployed products or existing partnerships.
+
+### Let your AI assistant explore
+[Open the Markdown brief for your AI assistant](FOR-YOUR-AI-AGENT.md), download it using GitHub’s **Raw / Download raw file** option, or pass the link to your assistant. It can explain our public projects, check sources and suggest relevant questions. No private access or external actions are needed; its analysis is not a statement by Vladimir.
+
 ## Let’s connect
 
 **Have a project, a question or a relevant introduction? Contact Vladimir through his [official website](https://vladimiruzbek.com/).**
@@ -61,6 +82,27 @@ Please use the website’s contact options for private enquiries. Do not post co
 Начнём не с обещания «автоматизировать всё», а с ограниченного пилота и измеримого результата. Как устроен процесс сейчас? Кто отвечает за него? Какие данные и инструменты доступны? Где нужен человек и что будет считаться успехом?
 
 Наши инструменты развиваются и проходят проверку. Возможности, объём работы и готовность к эксплуатации нужно подтверждать на конкретной задаче. Эта страница не заявляет полную автономность или партнёрство с организациями из атласа.
+
+## Наши публичные материалы
+
+### Сайты и история
+- **[История Владимира и Лиры, наши проекты](https://vladimiruzbek.com/about/)**.
+- **[IDEA ONE](https://ideaone.world/)** — AI-продукты и системы для бизнеса.
+
+### Исследовательские программы
+- **[Open Research Institute (ORI)](https://github.com/loaderxxx/open-research-institute)** · [Сайт](https://ori-lab.org/) — независимые исследования природы, интеллекта и общества.
+- **[COSMOSYNTH / Космическая программа](https://github.com/loaderxxx/Cosmic-Programm)** · [Сайт](https://cosmosynth.org/) — исследования космических систем, карты компетенций и инженерные вопросы. Это исследовательская программа, не действующая космическая инфраструктура.
+
+### Атласы и библиотеки источников
+- **[Dubai Future Week Atlas](https://github.com/loaderxxx/dubai-future-week-atlas-2026)** — этот атлас мероприятия.
+- **[Dubai AI Festival Research Atlas](https://github.com/loaderxxx/Dubai-ai-festival)** — компании, компетенции и проверяемые гипотезы взаимодействия.
+- **[Dubai Business Atlas](https://github.com/loaderxxx/dubai-business-atlas)** — пилот по открытым данным, начиная с Bay Square; не актуальный официальный реестр арендаторов.
+- **[Атлас спутниковой отрасли](https://github.com/loaderxxx/Cosmic-Programm/blob/main/EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/README.md)** — частичная исследовательская выборка CABSAT / SATExpo со ссылками на источники.
+
+Здесь только публичные материалы. Исследования и предложенные концепции не означают внедрённые продукты или существующие партнёрства.
+
+### Передайте материалы своему AI-агенту
+[Откройте Markdown-инструкцию для своего AI-агента](FOR-YOUR-AI-AGENT.md), скачайте через **Raw / Download raw file** в GitHub или передайте агенту ссылку. Он сможет объяснить проекты, проверить источники и подготовить вопросы. Приватные доступы и внешние действия не нужны; выводы агента не являются словами Владимира.
 
 ## Приглашаем познакомиться
 
