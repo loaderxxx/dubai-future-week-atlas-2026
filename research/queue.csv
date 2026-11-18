@@ -134,7 +134,7 @@ person,Chad Oppenheim,https://www.dubaifutureweek.com/en/speakers/chad-oppenheim
 person,Pat Pataranutaporn,https://www.dubaifutureweek.com/en/speakers/pat-pataranutaporn,catalogued_not_deeply_researched,
 person,Barbara Doran,https://www.dubaifutureweek.com/en/speakers/barbara-doran,catalogued_not_deeply_researched,
 person,Valentyn Volkov,https://www.dubaifutureweek.com/en/speakers/valentyn-volkov,catalogued_not_deeply_researched,
-person,Yacine Hadjiat,https://www.dubaifutureweek.com/en/speakers/yacine-hadjiat,catalogued_not_deeply_researched,
+person,Yacine Hadjiat,https://www.dubaifutureweek.com/en/speakers/yacine-hadjiat,researched_with_gaps,research/people/yacine-hadjiat.md
 person,Oussama Khatib,https://www.dubaifutureweek.com/en/speakers/oussama-khatib,catalogued_not_deeply_researched,
 person,Passy Amayo,https://www.dubaifutureweek.com/en/speakers/passy-amayo,catalogued_not_deeply_researched,
 person,Zhuliang Xu,https://www.dubaifutureweek.com/en/speakers/zhuliang-xu,catalogued_not_deeply_researched,
@@ -213,7 +213,7 @@ person,Sawsan Saad,https://www.dubaifutureweek.com/en/speakers/sawsan-saad,catal
 person,Daniela Tully,https://www.dubaifutureweek.com/en/speakers/daniela-tully,catalogued_not_deeply_researched,
 person,Nadeem Nathoo,https://www.dubaifutureweek.com/en/speakers/nadeem-nathoo,catalogued_not_deeply_researched,
 person,Drew Gilbert,https://www.dubaifutureweek.com/en/speakers/drew-gilbert,catalogued_not_deeply_researched,
-person,Nick Appleyard,https://www.dubaifutureweek.com/en/speakers/nick-appleyard,catalogued_not_deeply_researched,
+person,Nick Appleyard,https://www.dubaifutureweek.com/en/speakers/nick-appleyard,researched_with_gaps,research/people/nick-appleyard.md
 person,Mehran Gul,https://www.dubaifutureweek.com/en/speakers/mehran-gul,catalogued_not_deeply_researched,
 person,Atheer Bin Shakar,https://www.dubaifutureweek.com/en/speakers/atheer-bin-shakar,catalogued_not_deeply_researched,
 person,Guyue Zhou,https://www.dubaifutureweek.com/en/speakers/guyue-zhou,catalogued_not_deeply_researched,
@@ -305,7 +305,7 @@ organization,Dubai Films and Games Commission,https://www.dubaifutureweek.com/en
 organization,Dubai Future Academy,https://protocol.dubai.ae/en/media-listing/news-events/dubai-future-week-2026-to-begin-on-18th-november/,catalogued_not_deeply_researched,
 organization,Dubai Future Foundation,https://prototypesforhumanity.com/latestnews/press/2026summit,researched_with_gaps,research/organizations/dubai-future-foundation.md
 organization,Dubai Future Labs,https://protocol.dubai.ae/en/media-listing/news-events/dubai-future-week-2026-to-begin-on-18th-november/,catalogued_not_deeply_researched,
-organization,Dubai Health,https://www.dubaifutureweek.com/en/speakers/muna-tahlak,catalogued_not_deeply_researched,
+organization,Dubai Health,https://www.dubaifutureweek.com/en/speakers/muna-tahlak,researched_with_gaps,research/organizations/dubai-health.md
 organization,Dubai International Financial Centre (DIFC),https://www.wam.ae/en/article/c39nz2d-eight-organisations-join-dubai-future-week-2026,researched_with_gaps,research/organizations/difc.md
 organization,Dubai Land Department,https://www.dubaifutureweek.com/en/speakers/mohamed-ahmed-yahya-hussein,catalogued_not_deeply_researched,
 organization,Dubai Media Inc,https://www.dubaifutureweek.com/en/speakers/atheer-bin-shakar,catalogued_not_deeply_researched,
@@ -319,7 +319,7 @@ organization,Emirates Global Aluminium,https://www.dubaifutureweek.com/en/speake
 organization,Emirates Literature Foundation,https://www.dubaifutureweek.com/en/speakers/maha-alkhalawi,catalogued_not_deeply_researched,
 organization,Emma Bache Graphology,https://www.dubaifutureweek.com/en/speakers/emma-bache,catalogued_not_deeply_researched,
 organization,Ethics,https://www.dubaifutureweek.com/en/speakers/maxime-rovere,catalogued_not_deeply_researched,
-organization,European Space Agency,https://www.dubaifutureweek.com/en/speakers/nick-appleyard,catalogued_not_deeply_researched,
+organization,European Space Agency,https://www.dubaifutureweek.com/en/speakers/nick-appleyard,researched_with_gaps,research/organizations/european-space-agency.md
 organization,Expo City,https://www.dubaifutureweek.com/en/speakers/andrew-cockburn,catalogued_not_deeply_researched,
 organization,Expo City Dubai,https://www.dubaifutureweek.com/en/speakers/reem-bint-ebrahim-al-hashimy,catalogued_not_deeply_researched,
 organization,FTSG,https://www.dubaifutureweek.com/en/speakers/melanie-subin,catalogued_not_deeply_researched,
@@ -497,7 +497,7 @@ project,ResQNet,https://prototypesforhumanity.com/prototypes/resqnet,catalogued_
 project,ReinforcePrintCrete,https://prototypesforhumanity.com/prototypes/reinforceprintcrete,catalogued_not_deeply_researched,
 project,PUMA CAR T-Cells,https://prototypesforhumanity.com/prototypes/puma-car-t-cells,catalogued_not_deeply_researched,
 project,MEABR,https://prototypesforhumanity.com/prototypes/meabr,catalogued_not_deeply_researched,
-project,Litmus,https://prototypesforhumanity.com/prototypes/litmus,initial_profile,research/projects/litmus.md
+project,Litmus,https://prototypesforhumanity.com/prototypes/litmus,researched_with_gaps,research/projects/litmus.md
 project,Lir Labs,https://prototypesforhumanity.com/prototypes/lir-labs,catalogued_not_deeply_researched,
 project,LastCall Technologies,https://prototypesforhumanity.com/prototypes/lastcall-technologies,catalogued_not_deeply_researched,
 project,Laser-Engineered Bonding,https://prototypesforhumanity.com/prototypes/laser-engineered-bonding,catalogued_not_deeply_researched,
