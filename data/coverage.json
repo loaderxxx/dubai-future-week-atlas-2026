@@ -1,0 +1,13 @@
+{
+  "verified_date": "2026-11-18",
+  "counts": {
+    "organizations.csv": 29,
+    "prototypes.csv": 100,
+    "speakers.csv": 265,
+    "sessions.csv": 263
+  },
+  "agenda_api_total": 279,
+  "agenda_web_hidden_excluded": 16,
+  "outreach_sent": false,
+  "published": false
+}

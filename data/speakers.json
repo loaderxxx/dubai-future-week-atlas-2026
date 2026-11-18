@@ -1,0 +1,4952 @@
+[
+  {
+    "name": "Abdulla bin Mohammed bin Butti Al Hamed",
+    "title": "Chairman",
+    "organization": "National Media Authority",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/abdulla-bin-mohammed-bin-butti-al-hamed",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Bermuda Triangle of Media",
+        "starts_at": "2026-11-19T10:45:00+04:00",
+        "ends_at": "2026-11-19T11:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Reem bint Ebrahim Al Hashimy",
+    "title": "Minister of State for International Cooperation and CEO of Expo City Dubai Authority",
+    "organization": "Expo City Dubai",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/reem-bint-ebrahim-al-hashimy",
+    "website": "",
+    "sessions": [
+      {
+        "title": "What If Cities Belonged to Everyone?",
+        "starts_at": "2026-11-19T15:15:00+04:00",
+        "ends_at": "2026-11-19T15:30:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Marwan Ahmed Bin Ghalita",
+    "title": "Director General",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/marwan-ahmed-bin-ghalita",
+    "website": "https://www.dm.gov.ae/",
+    "sessions": [
+      {
+        "title": "The City That Never Sleeps",
+        "starts_at": "2026-11-19T11:00:00+04:00",
+        "ends_at": "2026-11-19T11:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Maryam AlHammadi",
+    "title": "Minister of State and Secretary General of The UAE Cabinet",
+    "organization": "General Secretariat of the Cabinet, Ministry of Cabinet Affairs",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/maryam-alhammadi",
+    "website": "https://uaecabinet.ae/en/cabinet-members",
+    "sessions": [
+      {
+        "title": "How Do We Legislate the Unknown?",
+        "starts_at": "2026-11-20T10:50:00+04:00",
+        "ends_at": "2026-11-20T11:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ohood Al Roumi",
+    "title": "Minister of State for Government Development and the Future of the UAE",
+    "organization": "Government Development and the Future Office",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ohood-al-roumi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Redefining the Future of Measuring Success",
+        "starts_at": "2026-11-19T09:30:00+04:00",
+        "ends_at": "2026-11-19T09:45:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Khalfan Belhoul",
+    "title": "CEO",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/khalfan-belhoul",
+    "website": "",
+    "sessions": [
+      {
+        "title": "A Big Welcome to Dubai Future Week",
+        "starts_at": "2026-11-18T09:30:00+04:00",
+        "ends_at": "2026-11-18T09:45:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      },
+      {
+        "title": "YPO MENA One Futures Event",
+        "starts_at": "2026-11-18T18:00:00+04:00",
+        "ends_at": "2026-11-18T21:00:00+04:00",
+        "venue": "The Learning Centre",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Amy Webb",
+    "title": "Founder & CEO",
+    "organization": "Future Today Strategy Group",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/amy-webb",
+    "website": "https://ftsg.com/",
+    "sessions": [
+      {
+        "title": "The Readiness Gap",
+        "starts_at": "2026-11-19T09:45:00+04:00",
+        "ends_at": "2026-11-19T10:15:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      },
+      {
+        "title": "YPO MENA One Futures Event",
+        "starts_at": "2026-11-18T18:00:00+04:00",
+        "ends_at": "2026-11-18T21:00:00+04:00",
+        "venue": "The Learning Centre",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Kaname Hayashi",
+    "title": "CEO",
+    "organization": "GROOVE X",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/kaname-hayashi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Robots will Make Us More Human, Actually",
+        "starts_at": "2026-11-19T15:00:00+04:00",
+        "ends_at": "2026-11-19T15:15:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Daan Roosegaarde",
+    "title": "Founder",
+    "organization": "Studio Roosegaarde",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/daan-roosegaarde",
+    "website": "https://www.studioroosegaarde.net",
+    "sessions": [
+      {
+        "title": "Landscapes of the Future",
+        "starts_at": "2026-11-21T16:00:00+04:00",
+        "ends_at": "2026-11-21T16:30:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Damith Herath",
+    "title": "Professor of Robotics and Art, Director Collaborative Robotics Lab",
+    "organization": "University of Canberra",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/damith-herath",
+    "website": "https://www.damith.org/",
+    "sessions": [
+      {
+        "title": "The Art in the Machine: Robotics Reimagined",
+        "starts_at": "2026-11-18T12:00:00+04:00",
+        "ends_at": "2026-11-18T12:40:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Amina Khalil",
+    "title": "Founder & Creative Director",
+    "organization": "Amina K.",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/amina-khalil",
+    "website": "https://www.aminak.net",
+    "sessions": [
+      {
+        "title": "The Future We Wear",
+        "starts_at": "2026-11-20T11:55:00+04:00",
+        "ends_at": "2026-11-20T12:25:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Carlo Ratti",
+    "title": "Director, Senseable City Lab",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/carlo-ratti",
+    "website": "https://carlorattiassociati.com/",
+    "sessions": [
+      {
+        "title": "A Big Welcome: Open Labs Edition",
+        "starts_at": "2026-11-19T10:30:00+04:00",
+        "ends_at": "2026-11-19T10:40:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "Where the Research Goes Next",
+        "starts_at": "2026-11-19T16:15:00+04:00",
+        "ends_at": "2026-11-19T16:30:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "The City as Evidence: Why Government Data Is the Foundation of Research",
+        "starts_at": "2026-11-18T10:40:00+04:00",
+        "ends_at": "2026-11-18T11:20:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Cecilia Laschi",
+    "title": "Advanced Robotics Centre Director",
+    "organization": "National University of Singapore",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/cecilia-laschi",
+    "website": "https://www.softroboticslab.info/",
+    "sessions": [
+      {
+        "title": "What Is a Robot Really Worth?",
+        "starts_at": "2026-11-21T11:05:00+04:00",
+        "ends_at": "2026-11-21T11:35:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ibrahim Al Najjar",
+    "title": "SVP Technology",
+    "organization": "DP World",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ibrahim-al-najjar",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City That Moves Itself",
+        "starts_at": "2026-11-19T10:15:00+04:00",
+        "ends_at": "2026-11-19T10:45:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohamed Ali",
+    "title": "Future Foresight Expert",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohamed-ali",
+    "website": "https://moforesight.ae/en",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Maha Alkhalawi",
+    "title": "Cultural Innovator /Author",
+    "organization": "Emirates Literature Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/maha-alkhalawi",
+    "website": "https://www.mahaalkhalawi.com",
+    "sessions": [
+      {
+        "title": "Writing Tomorrow",
+        "starts_at": "2026-11-18T15:30:00+04:00",
+        "ends_at": "2026-11-18T17:00:00+04:00",
+        "venue": "Book Corner",
+        "function": "Moderator"
+      },
+      {
+        "title": "From Science Fiction to Future Fact",
+        "starts_at": "2026-11-21T12:30:00+04:00",
+        "ends_at": "2026-11-21T13:30:00+04:00",
+        "venue": "Book Corner",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Sally Mousa",
+    "title": "Senior Presenter",
+    "organization": "Forbes Middle East",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/sally-mousa",
+    "website": "https://sallymousa.com",
+    "sessions": [
+      {
+        "title": "Redefining the Future of Measuring Success",
+        "starts_at": "2026-11-19T09:30:00+04:00",
+        "ends_at": "2026-11-19T09:45:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Corinna Weber",
+    "title": "CEO",
+    "organization": "SNAP Discovery",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/corinna-weber",
+    "website": "https://www.snapdiscovery.de",
+    "sessions": [
+      {
+        "title": "Mind Meets Machine: The Future of Neural Technology",
+        "starts_at": "2026-11-20T10:25:00+04:00",
+        "ends_at": "2026-11-20T10:55:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ayman Itani",
+    "title": "Entrepreneur and Claude Community Ambassador",
+    "organization": "Think Media Labs",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ayman-itani",
+    "website": "https://www.aymanitani.com",
+    "sessions": [
+      {
+        "title": "Claude for Government: From Shadow AI to Safe AI Use",
+        "starts_at": "2026-11-18T11:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "Partner's Lounge",
+        "function": "Instructor"
+      },
+      {
+        "title": "Claude As Your Co-Founder",
+        "starts_at": "2026-11-19T16:00:00+04:00",
+        "ends_at": "2026-11-19T17:30:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Instructor"
+      },
+      {
+        "title": "Claude for Government: From Shadow AI to Safe AI Use",
+        "starts_at": "2026-11-19T12:00:00+04:00",
+        "ends_at": "2026-11-19T13:00:00+04:00",
+        "venue": "Partner's Lounge",
+        "function": "Instructor"
+      },
+      {
+        "title": "Claude As Your Co-Founder",
+        "starts_at": "2026-11-18T16:30:00+04:00",
+        "ends_at": "2026-11-18T18:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Instructor"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Steve Mushin",
+    "title": "Author of Ultrawild",
+    "organization": "Allen & Unwin",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/steve-mushin",
+    "website": "https://www.ultrawild.org",
+    "sessions": [
+      {
+        "title": "From Science Fiction to Future Fact",
+        "starts_at": "2026-11-21T12:30:00+04:00",
+        "ends_at": "2026-11-21T13:30:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      },
+      {
+        "title": "Ultrawild",
+        "starts_at": "2026-11-21T15:00:00+04:00",
+        "ends_at": "2026-11-21T16:30:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      },
+      {
+        "title": "Ultrawild",
+        "starts_at": "2026-11-19T12:00:00+04:00",
+        "ends_at": "2026-11-19T13:30:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Bader Almasoum",
+    "title": "Director",
+    "organization": "RTA",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/bader-almasoum",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ian Cheng",
+    "title": "artist, founder",
+    "organization": "Opponent Systems",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ian-cheng",
+    "website": "https://iancheng.com",
+    "sessions": [
+      {
+        "title": "Built It, Studied It: What Happens When You Live With an AI that Remembers You",
+        "starts_at": "2026-11-21T13:40:00+04:00",
+        "ends_at": "2026-11-21T14:20:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Peter Frankopan",
+    "title": "Professor of Global History",
+    "organization": "University of Oxford",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/peter-frankopan",
+    "website": "https://www.peterfrankopan.com",
+    "sessions": [
+      {
+        "title": "The Future Has a History",
+        "starts_at": "2026-11-20T10:20:00+04:00",
+        "ends_at": "2026-11-20T10:50:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Pietro Massone",
+    "title": "PhD Student",
+    "organization": "MIT Senseable Lab",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/pietro-massone",
+    "website": "",
+    "sessions": [
+      {
+        "title": "What Makes a City Feel Human?",
+        "starts_at": "2026-11-19T10:50:00+04:00",
+        "ends_at": "2026-11-19T11:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Fatma Graiban Al Mheiri",
+    "title": "Administrative Director and Deputy scientific Director",
+    "organization": "Central Veterinary Research Laboratory",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/fatma-graiban-al-mheiri",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Mind Meets Machine: The Future of Neural Technology",
+        "starts_at": "2026-11-20T10:25:00+04:00",
+        "ends_at": "2026-11-20T10:55:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Kanwal Aalijah",
+    "title": "Program Manager, AI",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/kanwal-aalijah",
+    "website": "https://www.kanwalaalijah.com",
+    "sessions": [
+      {
+        "title": "The Many Futures of AI Across Borders",
+        "starts_at": "2026-11-18T15:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ahmed AlMannaee",
+    "title": "Owner",
+    "organization": "Crystal Clear Watersports LLC",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ahmed-almannaee",
+    "website": "https://crystalclearwatersports.com",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Hussain Sajwani",
+    "title": "Founder",
+    "organization": "DAMAC Group",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/hussain-sajwani",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Backing the Ideas That Shape Tomorrow",
+        "starts_at": "2026-11-21T11:00:00+04:00",
+        "ends_at": "2026-11-21T11:10:00+04:00",
+        "venue": "The Big Stage",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Khalid AlHarmoodi",
+    "title": "Assistant Secretary-General for Cabinet Affairs Support",
+    "organization": "General Secretariat of the Cabinet",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/khalid-alharmoodi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "When AI Meets Everything",
+        "starts_at": "2026-11-20T11:00:00+04:00",
+        "ends_at": "2026-11-20T11:20:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohamed Alzaabi",
+    "title": "Senior Expert",
+    "organization": "MBRSC",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohamed-alzaabi",
+    "website": "https://notapplicable.com",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Hamad Karki",
+    "title": "Associate Professor",
+    "organization": "Khalifa University",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/hamad-karki",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Same Machine, Opposite Questions: Art vs. Engineering in Robotic Form",
+        "starts_at": "2026-11-20T09:50:00+04:00",
+        "ends_at": "2026-11-20T10:25:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "Meet the Robot Generation",
+        "starts_at": "2026-11-21T12:30:00+04:00",
+        "ends_at": "2026-11-21T13:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Khaled Bin Braik",
+    "title": "UAE Country Senior Partner",
+    "organization": "PwC",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/khaled-bin-braik",
+    "website": "",
+    "sessions": [
+      {
+        "title": "When AI Meets Everything",
+        "starts_at": "2026-11-20T11:00:00+04:00",
+        "ends_at": "2026-11-20T11:20:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Zahara Sadiq",
+    "title": "Founder",
+    "organization": "Impact Gate Global",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/zahara-sadiq",
+    "website": "https://impactgateglobal.com",
+    "sessions": [
+      {
+        "title": "What Are We Not Measuring About Our Bodies?",
+        "starts_at": "2026-11-20T14:15:00+04:00",
+        "ends_at": "2026-11-20T14:50:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ahmad Aburob",
+    "title": "CEO & Founder",
+    "organization": "Aburob Media",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ahmad-aburob",
+    "website": "https://aburob.com",
+    "sessions": [
+      {
+        "title": "Creator's Special: Going from Solo to CEO",
+        "starts_at": "2026-11-21T14:00:00+04:00",
+        "ends_at": "2026-11-21T14:30:00+04:00",
+        "venue": "The Pitch",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Dalia Hamati",
+    "title": "Architect & Assistant Professor",
+    "organization": "American University of Sharjah",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/dalia-hamati",
+    "website": "https://www.daliahamati.com",
+    "sessions": [
+      {
+        "title": "Can We Design Cities That Breathe?",
+        "starts_at": "2026-11-19T15:30:00+04:00",
+        "ends_at": "2026-11-19T16:10:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Tala Nsouli",
+    "title": "General Manager",
+    "organization": "Uber & Careem Rides UAE",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/tala-nsouli",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Sector Final: Urban Life Systems",
+        "starts_at": "2026-11-20T11:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Hackathon Final: AI Mobility",
+        "starts_at": "2026-11-20T09:00:00+04:00",
+        "ends_at": "2026-11-20T10:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Abdulla Alashram",
+    "title": "CEO",
+    "organization": "AMA Group",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/abdulla-alashram",
+    "website": "https://www.amagroup.ae",
+    "sessions": [
+      {
+        "title": "Shark Tank Dubai Finale",
+        "starts_at": "2026-11-21T09:00:00+04:00",
+        "ends_at": "2026-11-21T11:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Abdelaziz Alhammadi",
+    "title": "Chief AI Officer",
+    "organization": "RTA",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/abdelaziz-alhammadi",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Khaled Al Awadhi",
+    "title": "Director of Automated Collection Systems Department",
+    "organization": "RTA",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/khaled-al-awadhi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "From Orbit to Operations: Space Technology as an R&D Engine",
+        "starts_at": "2026-11-18T14:50:00+04:00",
+        "ends_at": "2026-11-18T15:30:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Tayeb Alkhaja",
+    "title": "VP Plant-2 Generation DEWA",
+    "organization": "Dubai Electricity & Water Authority",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/tayeb-alkhaja",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Pitch of the Future: Energy & Water",
+        "starts_at": "2026-11-19T13:00:00+04:00",
+        "ends_at": "2026-11-19T14:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Sector Final: Energy & Water",
+        "starts_at": "2026-11-19T15:00:00+04:00",
+        "ends_at": "2026-11-19T16:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Shragah Rashed Alketbi",
+    "title": "Data Management and Governance Section Manager",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/shragah-rashed-alketbi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City That Never Sleeps",
+        "starts_at": "2026-11-19T11:00:00+04:00",
+        "ends_at": "2026-11-19T11:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Tammer Qaddumi",
+    "title": "Co-Founder & General Partner",
+    "organization": "Venture Souq",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/tammer-qaddumi",
+    "website": "https://www.venturesouq.com",
+    "sessions": [
+      {
+        "title": "Hackathon Final: AI Mobility",
+        "starts_at": "2026-11-20T09:00:00+04:00",
+        "ends_at": "2026-11-20T10:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Sector Final: Urban Life Systems",
+        "starts_at": "2026-11-20T11:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Atraf Shehab",
+    "title": "Chief Government Development & Future",
+    "organization": "Government Development & Future",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/atraf-shehab",
+    "website": "https://gdf.gov.ae/en",
+    "sessions": [
+      {
+        "title": "Government Foresight Peers: In Practice",
+        "starts_at": "2026-11-19T12:30:00+04:00",
+        "ends_at": "2026-11-19T13:30:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Muna Tahlak",
+    "title": "CMO & Vice Provost",
+    "organization": "Dubai Health",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/muna-tahlak",
+    "website": "",
+    "sessions": [
+      {
+        "title": "What Are We Not Measuring About Our Bodies?",
+        "starts_at": "2026-11-20T14:15:00+04:00",
+        "ends_at": "2026-11-20T14:50:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Rawan El-Bendary",
+    "title": "Community Manager",
+    "organization": "Arab Futures Society",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/rawan-el-bendary",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Three Minutes. Three Slides. Three Signals. Three Questions.",
+        "starts_at": "2026-11-19T13:45:00+04:00",
+        "ends_at": "2026-11-19T14:25:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Danny Hillis",
+    "title": "Co-Founder",
+    "organization": "Applied Invention",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/danny-hillis",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future of Humankind and Our Entanglement with Technology",
+        "starts_at": "2026-11-18T10:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Keara Sauber",
+    "title": "CEO",
+    "organization": "Incora Health",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/keara-sauber",
+    "website": "http://incorahealth.com",
+    "sessions": [
+      {
+        "title": "What Are We Not Measuring About Our Bodies?",
+        "starts_at": "2026-11-20T14:15:00+04:00",
+        "ends_at": "2026-11-20T14:50:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Marc Palatucci",
+    "title": "Director, Growth and Engagement",
+    "organization": "Future Today Strategy Group",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/marc-palatucci",
+    "website": "https://ftsg.com",
+    "sessions": [
+      {
+        "title": "The Future We Wear",
+        "starts_at": "2026-11-20T11:55:00+04:00",
+        "ends_at": "2026-11-20T12:25:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Samit Basu",
+    "title": "Author",
+    "organization": "Author",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/samit-basu",
+    "website": "https://samitbasu.com/",
+    "sessions": [
+      {
+        "title": "The Story Clinic",
+        "starts_at": "2026-11-18T14:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "Book Corner",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Hessa Abdulla",
+    "title": "DFF Competition Judge",
+    "organization": "Author",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/hessa-abdulla",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Story Clinic",
+        "starts_at": "2026-11-18T14:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "Book Corner",
+        "function": "Judge"
+      },
+      {
+        "title": "From Science Fiction to Future Fact",
+        "starts_at": "2026-11-21T12:30:00+04:00",
+        "ends_at": "2026-11-21T13:30:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Rania Masri El Khatib",
+    "title": "CEO",
+    "organization": "The Giving Movement",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/rania-masri-el-khatib",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Confessions of an Entrepreneur",
+        "starts_at": "2026-11-19T14:25:00+04:00",
+        "ends_at": "2026-11-19T15:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Jessica Green",
+    "title": "TED Fellow",
+    "organization": "TED Fellow",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/jessica-green",
+    "website": "",
+    "sessions": [
+      {
+        "title": "How to Design an Immune System for Buildings",
+        "starts_at": "2026-11-18T10:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Emma Bache",
+    "title": "Handwriting Analyst",
+    "organization": "Emma Bache Graphology",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/emma-bache",
+    "website": "https://emmabache.com",
+    "sessions": [
+      {
+        "title": "Reading Between the Lines",
+        "starts_at": "2026-11-19T14:30:00+04:00",
+        "ends_at": "2026-11-19T16:00:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      },
+      {
+        "title": "What Must Stay Human?",
+        "starts_at": "2026-11-19T11:35:00+04:00",
+        "ends_at": "2026-11-19T12:05:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Joanna Lepore",
+    "title": "Global Foresight Strategist",
+    "organization": "Foresight Inside Group",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/joanna-lepore",
+    "website": "https://www.jolepore.com",
+    "sessions": [
+      {
+        "title": "The Philosopher’s Circle",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      },
+      {
+        "title": "One Beverage for Many Worlds",
+        "starts_at": "2026-11-20T14:50:00+04:00",
+        "ends_at": "2026-11-20T15:10:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      },
+      {
+        "title": "Three Minutes. Three Slides. Three Signals. Three Questions.",
+        "starts_at": "2026-11-19T13:45:00+04:00",
+        "ends_at": "2026-11-19T14:25:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Thays Prado",
+    "title": "Founder",
+    "organization": "Feminist Futures",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/thays-prado",
+    "website": "https://www.feministfutures.co/",
+    "sessions": [
+      {
+        "title": "Three Minutes. Three Slides. Three Signals. Three Questions.",
+        "starts_at": "2026-11-19T13:45:00+04:00",
+        "ends_at": "2026-11-19T14:25:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Olga Tarasov",
+    "title": "Vice President, Insights, Research & Transformation",
+    "organization": "Rockefeller Philanthropy Advisors",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/olga-tarasov",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Absorption Gap: Philanthropy and Human Capability",
+        "starts_at": "2026-11-19T10:00:00+04:00",
+        "ends_at": "2026-11-19T12:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Speaker"
+      },
+      {
+        "title": "Three Minutes. Three Slides. Three Signals. Three Questions.",
+        "starts_at": "2026-11-19T13:45:00+04:00",
+        "ends_at": "2026-11-19T14:25:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Stefi Troguet",
+    "title": "Founder",
+    "organization": "WYLD",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/stefi-troguet",
+    "website": "https://stefitroguet.com/",
+    "sessions": [
+      {
+        "title": "Why Do We Keep Climbing?",
+        "starts_at": "2026-11-19T10:45:00+04:00",
+        "ends_at": "2026-11-19T11:15:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Florence Gaub",
+    "title": "Research Director",
+    "organization": "NATO Defense College",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/florence-gaub",
+    "website": "https://florencegaub.de/en/home-de-english/",
+    "sessions": [
+      {
+        "title": "Foresight Without Borders",
+        "starts_at": "2026-11-20T09:40:00+04:00",
+        "ends_at": "2026-11-20T10:20:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      },
+      {
+        "title": "The Future: A User's Guide",
+        "starts_at": "2026-11-18T10:00:00+04:00",
+        "ends_at": "2026-11-18T11:00:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Steven Kenney",
+    "title": "Founder and Principal",
+    "organization": "Foresight Vector",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/steven-kenney",
+    "website": "https://www.foresightvector.com",
+    "sessions": [
+      {
+        "title": "Three Minutes. Three Slides. Three Signals. Three Questions.",
+        "starts_at": "2026-11-19T13:45:00+04:00",
+        "ends_at": "2026-11-19T14:25:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      },
+      {
+        "title": "Global Futures Society Convening",
+        "starts_at": "2026-11-19T09:00:00+04:00",
+        "ends_at": "2026-11-19T16:30:00+04:00",
+        "venue": "The Policy Room 01",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Tom Gruber",
+    "title": "Founder",
+    "organization": "Humanistic.AI",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/thomas-gruber",
+    "website": "https://tomgruber.org",
+    "sessions": [
+      {
+        "title": "What if AI Worked Only for You?",
+        "starts_at": "2026-11-18T10:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Maxime Rovere",
+    "title": "Philosopher",
+    "organization": "Ethics",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/maxime-rovere",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Sound of Being Human",
+        "starts_at": "2026-11-21T13:00:00+04:00",
+        "ends_at": "2026-11-21T13:30:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      },
+      {
+        "title": "The Philosopher’s Circle",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Catarina Tully",
+    "title": "Managing Director",
+    "organization": "School of International Futures",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/catarina-tully",
+    "website": "https://soif.org.uk/",
+    "sessions": [
+      {
+        "title": "What Will You Do on Monday?",
+        "starts_at": "2026-11-19T16:10:00+04:00",
+        "ends_at": "2026-11-19T16:30:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      },
+      {
+        "title": "Playing with Time",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T11:00:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Lucas Gobatti",
+    "title": "Postdoctoral Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/lucas-gobatti",
+    "website": "https://www.lucasgobatti.com",
+    "sessions": [
+      {
+        "title": "How Cities Adapt to a Changing Climate",
+        "starts_at": "2026-11-19T11:50:00+04:00",
+        "ends_at": "2026-11-19T12:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Titus Venverloo",
+    "title": "Lab Lead, Amsterdam",
+    "organization": "MIT Senseable City Lab",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/titus-venverloo",
+    "website": "https://senseable.mit.edu/",
+    "sessions": [
+      {
+        "title": "What Makes a City Feel Human?",
+        "starts_at": "2026-11-19T10:50:00+04:00",
+        "ends_at": "2026-11-19T11:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Rami Tabbara",
+    "title": "CEO",
+    "organization": "Stake",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/rami-tabbara",
+    "website": "https://www.getstake.com",
+    "sessions": [
+      {
+        "title": "Confessions of an Entrepreneur",
+        "starts_at": "2026-11-20T11:20:00+04:00",
+        "ends_at": "2026-11-20T11:55:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Julian Bleecker",
+    "title": "Chief Imagination Officer",
+    "organization": "Near Future Laboratory",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/julian-bleecker",
+    "website": "https://nearfuturelaboratory.com",
+    "sessions": [
+      {
+        "title": "The Future Is too Important to Be Boring",
+        "starts_at": "2026-11-19T11:15:00+04:00",
+        "ends_at": "2026-11-19T11:35:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      },
+      {
+        "title": "An Expedition into Possibility: A Design Fiction Workshop",
+        "starts_at": "2026-11-19T14:00:00+04:00",
+        "ends_at": "2026-11-19T16:00:00+04:00",
+        "venue": "The Learning Centre",
+        "function": "Instructor"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Vincent Corver",
+    "title": "Steinway Artist",
+    "organization": "Swiss Sonic",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/vincent-corver",
+    "website": "http://vincentcorver.com",
+    "sessions": [
+      {
+        "title": "Opening Notes",
+        "starts_at": "2026-11-19T09:15:00+04:00",
+        "ends_at": "2026-11-19T09:30:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Performer"
+      },
+      {
+        "title": "Opening Notes",
+        "starts_at": "2026-11-20T09:15:00+04:00",
+        "ends_at": "2026-11-20T09:30:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Performer"
+      },
+      {
+        "title": "The Sound of Being Human",
+        "starts_at": "2026-11-21T13:00:00+04:00",
+        "ends_at": "2026-11-21T13:30:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Cheryl Doig",
+    "title": "Futurist",
+    "organization": "Think Beyond",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/cheryl-doig",
+    "website": "https://thinkbeyond.co.nz/",
+    "sessions": [
+      {
+        "title": "When the Whale Becomes a Person: Reimagining a Planetary Future",
+        "starts_at": "2026-11-21T10:00:00+04:00",
+        "ends_at": "2026-11-21T12:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": null
+      },
+      {
+        "title": "The Future Generations Trial: What Future Did You Promise Us?",
+        "starts_at": "2026-11-20T14:00:00+04:00",
+        "ends_at": "2026-11-20T16:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Moderator"
+      },
+      {
+        "title": "Three Minutes. Three Slides. Three Signals. Three Questions.",
+        "starts_at": "2026-11-19T13:45:00+04:00",
+        "ends_at": "2026-11-19T14:25:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Umberto Fugiglando",
+    "title": "Head of Research Strategy & Partnerships",
+    "organization": "Massachusetts Institute of Technology",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/umberto-fugiglando",
+    "website": "https://senseable.mit.edu/",
+    "sessions": [
+      {
+        "title": "How Climate and the City Shape the Way We Move",
+        "starts_at": "2026-11-19T14:15:00+04:00",
+        "ends_at": "2026-11-19T15:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "How Cities Sense, Move and Adapt",
+        "starts_at": "2026-11-19T10:40:00+04:00",
+        "ends_at": "2026-11-19T10:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Matthias Fitzky",
+    "title": "Postdoctoral Research Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/matthias-fitzky",
+    "website": "https://matzefit.github.io/",
+    "sessions": [
+      {
+        "title": "How Cities Adapt to a Changing Climate",
+        "starts_at": "2026-11-19T11:50:00+04:00",
+        "ends_at": "2026-11-19T12:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Muhammed Noshin",
+    "title": "Research Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/muhammed-noshin",
+    "website": "",
+    "sessions": [
+      {
+        "title": "How Cities Adapt to a Changing Climate",
+        "starts_at": "2026-11-19T11:50:00+04:00",
+        "ends_at": "2026-11-19T12:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Simone Mora",
+    "title": "Research Scientist",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/simone-mora",
+    "website": "https://simonemora.com",
+    "sessions": [
+      {
+        "title": "How Cities Adapt to a Changing Climate",
+        "starts_at": "2026-11-19T11:50:00+04:00",
+        "ends_at": "2026-11-19T12:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Martina Mazzarello",
+    "title": "Research Scientist & Global labs Lead",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/martina-mazzarello",
+    "website": "https://martinamazzarello.com/",
+    "sessions": [
+      {
+        "title": "How Cities Sense, Move and Adapt",
+        "starts_at": "2026-11-19T10:40:00+04:00",
+        "ends_at": "2026-11-19T10:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Diego Morra",
+    "title": "Researcher",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/diego-morra",
+    "website": "https://diego-morra.com/",
+    "sessions": [
+      {
+        "title": "How Climate and the City Shape the Way We Move",
+        "starts_at": "2026-11-19T14:15:00+04:00",
+        "ends_at": "2026-11-19T15:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Suzan Ayas",
+    "title": "Lab Lead at Senseable City Seoul",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/suzan-ayas",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future of Human Connection",
+        "starts_at": "2026-11-19T15:15:00+04:00",
+        "ends_at": "2026-11-19T16:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Yukari Takehisa",
+    "title": "Co-Founder of Longevity Rave, DJ",
+    "organization": "Longevity Rave",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/yukari-takehisa",
+    "website": "https://www.longevityrave.world/",
+    "sessions": [
+      {
+        "title": "Silent Jam by Longevity Rave",
+        "starts_at": "2026-11-19T17:00:00+04:00",
+        "ends_at": "2026-11-19T19:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Performer"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Michael Tonkin",
+    "title": "Architect",
+    "organization": "Tonkin Liu",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/michael-anthony-tonkin",
+    "website": "https://tonkinliu.co.uk/",
+    "sessions": [
+      {
+        "title": "Asking, Looking, Playing, Making",
+        "starts_at": "2026-11-18T14:00:00+04:00",
+        "ends_at": "2026-11-18T15:00:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Anna Liu",
+    "title": "Architect",
+    "organization": "Tonkin Liu",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/anna-liu",
+    "website": "https://tonkinliu.co.uk",
+    "sessions": [
+      {
+        "title": "Can We Design Cities That Breathe?",
+        "starts_at": "2026-11-19T15:30:00+04:00",
+        "ends_at": "2026-11-19T16:10:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mustafa Koita",
+    "title": "Founder & CEO",
+    "organization": "Koita",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mustafa-koita",
+    "website": "https://www.koita.com",
+    "sessions": [
+      {
+        "title": "Confessions of an Entrepreneur",
+        "starts_at": "2026-11-19T14:25:00+04:00",
+        "ends_at": "2026-11-19T15:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Reem AlMealla",
+    "title": "Founder & Marine Ecologist",
+    "organization": "Nuwat for Environmental Research & Education",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/reem-almealla",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Dear Future Me, Remember to Wonder",
+        "starts_at": "2026-11-21T13:30:00+04:00",
+        "ends_at": "2026-11-21T14:10:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Rajneel Kumar",
+    "title": "Co-Founder",
+    "organization": "Rentify",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/rajneel-kumar",
+    "website": "https://gorentify.com/",
+    "sessions": [
+      {
+        "title": "Confessions of an Entrepreneur",
+        "starts_at": "2026-11-20T11:20:00+04:00",
+        "ends_at": "2026-11-20T11:55:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Daniel Dabach",
+    "title": "Executive Producer",
+    "organization": "Retirement House",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/daniel-dabach",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Creator's Special: Content Without An Age Limit",
+        "starts_at": "2026-11-21T14:45:00+04:00",
+        "ends_at": "2026-11-21T15:15:00+04:00",
+        "venue": "The Pitch",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Paolo Santi",
+    "title": "Principal Research Scientist",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/paolo-santi",
+    "website": "https://webhost.services.iit.cnr.it/staff/paolo.santi/",
+    "sessions": [
+      {
+        "title": "Needle in the Haystack: AI, Scientific Discovery, and Human Judgement",
+        "starts_at": "2026-11-18T14:15:00+04:00",
+        "ends_at": "2026-11-18T14:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "How Climate and the City Shape the Way We Move",
+        "starts_at": "2026-11-19T14:15:00+04:00",
+        "ends_at": "2026-11-19T15:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Nils Gilman",
+    "title": "Senior Advisor",
+    "organization": "Berggruen Institute",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/nils-gilman",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future Has a History",
+        "starts_at": "2026-11-20T10:20:00+04:00",
+        "ends_at": "2026-11-20T10:50:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Shai Naides",
+    "title": "Policy Manager for Intergenerational Governance",
+    "organization": "UNICEF",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/shai-naides",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Hey Chat, I'm Growing Up",
+        "starts_at": "2026-11-21T14:10:00+04:00",
+        "ends_at": "2026-11-21T14:50:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Fabio Duarte",
+    "title": "Principal Research Scientist",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/fabio-duarte",
+    "website": "https://senseable.mit.edu",
+    "sessions": [
+      {
+        "title": "The Future of Human Connection",
+        "starts_at": "2026-11-19T15:15:00+04:00",
+        "ends_at": "2026-11-19T16:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Paul Newman",
+    "title": "Founder & CEO",
+    "organization": "Oxa",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/paul-newman",
+    "website": "https://oxa.tech/",
+    "sessions": [
+      {
+        "title": "The City That Moves Itself",
+        "starts_at": "2026-11-19T10:15:00+04:00",
+        "ends_at": "2026-11-19T10:45:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      },
+      {
+        "title": "Machine Learning On Data, Not Machine Learning With Data",
+        "starts_at": "2026-11-21T10:30:00+04:00",
+        "ends_at": "2026-11-21T11:05:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Dr Patrick Noack",
+    "title": "Executive Director",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/dr-patrick-noack",
+    "website": "",
+    "sessions": [
+      {
+        "title": "What Will You Do on Monday?",
+        "starts_at": "2026-11-20T15:40:00+04:00",
+        "ends_at": "2026-11-20T16:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      },
+      {
+        "title": "Global Futures Society Convening",
+        "starts_at": "2026-11-19T09:00:00+04:00",
+        "ends_at": "2026-11-19T16:30:00+04:00",
+        "venue": "The Policy Room 01",
+        "function": null
+      },
+      {
+        "title": "The Many Futures of AI Across Borders",
+        "starts_at": "2026-11-18T15:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Speaker"
+      },
+      {
+        "title": "Foresight Without Borders",
+        "starts_at": "2026-11-20T09:40:00+04:00",
+        "ends_at": "2026-11-20T10:20:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Khalifa Alqama",
+    "title": "Chief of Research Development & Innovation",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/khalifa-alqama",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City as Evidence: Why Government Data Is the Foundation of Research",
+        "starts_at": "2026-11-18T10:40:00+04:00",
+        "ends_at": "2026-11-18T11:20:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "A Big Welcome to Creative, Curious Minds",
+        "starts_at": "2026-11-18T10:00:00+04:00",
+        "ends_at": "2026-11-18T10:10:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "Machine Learning On Data, Not Machine Learning With Data",
+        "starts_at": "2026-11-21T10:30:00+04:00",
+        "ends_at": "2026-11-21T11:05:00+04:00",
+        "venue": "STARS",
+        "function": "Moderator"
+      },
+      {
+        "title": "How Cities Adapt to a Changing Climate",
+        "starts_at": "2026-11-19T11:50:00+04:00",
+        "ends_at": "2026-11-19T12:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Assaf Biderman",
+    "title": "Co - Founder & Co - Director",
+    "organization": "MIT Senseable City Lab",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/assaf-biderman",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Where the Research Goes Next",
+        "starts_at": "2026-11-19T16:15:00+04:00",
+        "ends_at": "2026-11-19T16:30:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Hamish Gibbs",
+    "title": "Postdoctoral Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/hamish-gibbs",
+    "website": "https://hamishgibbs.net/",
+    "sessions": [
+      {
+        "title": "How Climate and the City Shape the Way We Move",
+        "starts_at": "2026-11-19T14:15:00+04:00",
+        "ends_at": "2026-11-19T15:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Hiroshi Ishiguro",
+    "title": "Professor",
+    "organization": "Osaka University",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/hiroshi-ishiguro",
+    "website": "https://eng.irl.sys.es.osaka-u.ac.jp/",
+    "sessions": [
+      {
+        "title": "The Avatar-Symbiotic Society: A World Without Limits",
+        "starts_at": "2026-11-21T15:15:00+04:00",
+        "ends_at": "2026-11-21T15:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Sohail Inayatullah",
+    "title": "UNESCO chair in Futures Studies",
+    "organization": "Metafuture",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/sohail-inayatullah",
+    "website": "https://metafuture.org",
+    "sessions": [
+      {
+        "title": "Three Minutes. Three Slides. Three Signals. Three Questions.",
+        "starts_at": "2026-11-19T13:45:00+04:00",
+        "ends_at": "2026-11-19T14:25:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Lana Abdelhameed",
+    "title": "Senior Manager",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/lana-abdelhameed",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future of Humankind and Our Entanglement with Technology",
+        "starts_at": "2026-11-18T10:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Michiel van Selm",
+    "title": "Research Fellow",
+    "organization": "MIT & TU Delft",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/michiel-van-selm",
+    "website": "",
+    "sessions": [
+      {
+        "title": "How Cities Adapt to a Changing Climate",
+        "starts_at": "2026-11-19T11:50:00+04:00",
+        "ends_at": "2026-11-19T12:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Qiwei Song",
+    "title": "Research Affiliate",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/song-qiwei",
+    "website": "",
+    "sessions": [
+      {
+        "title": "How Climate and the City Shape the Way We Move",
+        "starts_at": "2026-11-19T14:15:00+04:00",
+        "ends_at": "2026-11-19T15:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Wenhan Wu",
+    "title": "Postdoctoral Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/wenhan-wu",
+    "website": "https://wenhanwu1998.github.io/",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Åse Håtveit",
+    "title": "Research Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ase-hatveit",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future of Human Connection",
+        "starts_at": "2026-11-19T15:15:00+04:00",
+        "ends_at": "2026-11-19T16:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Fadi G. Haddad",
+    "title": "Researcher, Senseable City Lab",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/fadi-g-haddad",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future of Human Connection",
+        "starts_at": "2026-11-19T15:15:00+04:00",
+        "ends_at": "2026-11-19T16:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Aurora Zhang",
+    "title": "Postdoc",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/aurora-zhang",
+    "website": "https://aurozhang.github.io",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Omar Shihab",
+    "title": "Regeneration & Hospitality Entrepreneur",
+    "organization": "Second Nature <> BOCA",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/omar-shihab",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Food That Heals: The Future on Our Plates",
+        "starts_at": "2026-11-19T12:30:00+04:00",
+        "ends_at": "2026-11-19T13:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Issam AlZouby",
+    "title": "AI Research",
+    "organization": "UNC Charlotte",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/issam-alzouby",
+    "website": "https://issamalzouby.com/",
+    "sessions": [
+      {
+        "title": "Human and Robot, Not Human or Robot",
+        "starts_at": "2026-11-21T11:35:00+04:00",
+        "ends_at": "2026-11-21T12:10:00+04:00",
+        "venue": "STARS",
+        "function": "Moderator"
+      },
+      {
+        "title": "The Art in the Machine: Robotics Reimagined",
+        "starts_at": "2026-11-18T12:00:00+04:00",
+        "ends_at": "2026-11-18T12:40:00+04:00",
+        "venue": "STARS",
+        "function": "Moderator"
+      },
+      {
+        "title": "Meet the Robot Generation",
+        "starts_at": "2026-11-21T12:30:00+04:00",
+        "ends_at": "2026-11-21T13:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Moderator"
+      },
+      {
+        "title": "Same Machine, Opposite Questions: Art vs. Engineering in Robotic Form",
+        "starts_at": "2026-11-20T09:50:00+04:00",
+        "ends_at": "2026-11-20T10:25:00+04:00",
+        "venue": "STARS",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Marwa Nooh",
+    "title": "Digital Learning Specialist",
+    "organization": "New Economy Academy",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/marwa-nooh",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Building the Mindset for the Economy of Tomorrow",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Noah Simmons",
+    "title": "Founder and CEO",
+    "organization": "KidNet",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/noah-simmons",
+    "website": "https://mykidnet.com",
+    "sessions": [
+      {
+        "title": "Hey Chat, I'm Growing Up",
+        "starts_at": "2026-11-21T14:10:00+04:00",
+        "ends_at": "2026-11-21T14:50:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Laila Faridoon",
+    "title": "CEO",
+    "organization": "New Economy Academy",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/laila-faridoon",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Building the Mindset for the Economy of Tomorrow",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Brandon Chase",
+    "title": "Founder",
+    "organization": "Retirement House",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/brandon-chase",
+    "website": "https://instagram.com/retirementhouse",
+    "sessions": [
+      {
+        "title": "Creator's Special: Content Without An Age Limit",
+        "starts_at": "2026-11-21T14:45:00+04:00",
+        "ends_at": "2026-11-21T15:15:00+04:00",
+        "venue": "The Pitch",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ben Ayers",
+    "title": "Storyteller",
+    "organization": "Rainshadow Films",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ben-ayers",
+    "website": "https://www.youtube.com/@Everest.Live_YT",
+    "sessions": [
+      {
+        "title": "Why Do We Keep Climbing?",
+        "starts_at": "2026-11-19T10:45:00+04:00",
+        "ends_at": "2026-11-19T11:15:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Melanie Subin",
+    "title": "Chief Client Officer",
+    "organization": "FTSG",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/melanie-subin",
+    "website": "https://ftsg.com",
+    "sessions": [
+      {
+        "title": "Cognitive Atrophy: Are We Thinking Less, as AI Thinks More?",
+        "starts_at": "2026-11-18T13:40:00+04:00",
+        "ends_at": "2026-11-18T14:15:00+04:00",
+        "venue": "STARS",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ma Yansong",
+    "title": "Founding Partner",
+    "organization": "MAD Architects",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ma-yansong",
+    "website": "https://www.i-mad.com",
+    "sessions": [
+      {
+        "title": "Why We Need to Think Outside the Box",
+        "starts_at": "2026-11-18T10:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Abdelkarim Deesi",
+    "title": "Robotics Engineer",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/abdelkarim-deesi",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mustafa Sayedi",
+    "title": "Skills & AI Lead, Middle East",
+    "organization": "Cornerstone",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mustafa-sayedi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Absorption Gap: Philanthropy and Human Capability",
+        "starts_at": "2026-11-19T10:00:00+04:00",
+        "ends_at": "2026-11-19T12:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Olga Shaeva",
+    "title": "Co-founder, head of research",
+    "organization": "ALGORITHM TREND INTELLIGENCE",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/olga-shaeva",
+    "website": "",
+    "sessions": [
+      {
+        "title": "How Future Bets Become Business Reality",
+        "starts_at": "2026-11-18T14:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "The Learning Centre",
+        "function": "Instructor"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Daniel Simu",
+    "title": "Artist",
+    "organization": "Acrobot",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/daniel-simu",
+    "website": "https://danielsimu.com/",
+    "sessions": [
+      {
+        "title": "Acrobot: The Human-Robot Duet",
+        "starts_at": "2026-11-19T10:15:00+04:00",
+        "ends_at": "2026-11-19T10:45:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Performer"
+      },
+      {
+        "title": "Acrobot: The Human-Robot Duet",
+        "starts_at": "2026-11-21T13:00:00+04:00",
+        "ends_at": "2026-11-21T13:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Performer"
+      },
+      {
+        "title": "The Art in the Machine: Robotics Reimagined",
+        "starts_at": "2026-11-18T12:00:00+04:00",
+        "ends_at": "2026-11-18T12:40:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Wanjiku Kamau",
+    "title": "AI Author & Strategist",
+    "organization": "TealBridge",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/wanjiku-kamau",
+    "website": "https://wanjikukamau.com/",
+    "sessions": [
+      {
+        "title": "What Must Stay Human?",
+        "starts_at": "2026-11-19T11:35:00+04:00",
+        "ends_at": "2026-11-19T12:05:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mona Ataya",
+    "title": "Founder Mumzworld and Co-founder bayt.com",
+    "organization": "Bayt",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mona-ataya",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Shark Tank Dubai Finale",
+        "starts_at": "2026-11-21T09:00:00+04:00",
+        "ends_at": "2026-11-21T11:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Why Do We Keep Climbing?",
+        "starts_at": "2026-11-19T10:45:00+04:00",
+        "ends_at": "2026-11-19T11:15:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Jimena Califa",
+    "title": "Strategic Foresight Consultant",
+    "organization": "UN Women",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/jimena-califa",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Alaa Alradwan",
+    "title": "Lab Lead",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/alaa-alradwan",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mona Ghander",
+    "title": "SVP-Innovative Solutions and Strategic Partnerships",
+    "organization": "Abdulla Al Ghurair Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mona-ghander",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Absorption Gap: Philanthropy and Human Capability",
+        "starts_at": "2026-11-19T10:00:00+04:00",
+        "ends_at": "2026-11-19T12:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Maryam Yousuf",
+    "title": "Project Manager",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/maryam-yousuf",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future Generations Trial: What Future Did You Promise Us?",
+        "starts_at": "2026-11-20T14:00:00+04:00",
+        "ends_at": "2026-11-20T16:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Moderator"
+      },
+      {
+        "title": "Global Futures Society Convening",
+        "starts_at": "2026-11-19T09:00:00+04:00",
+        "ends_at": "2026-11-19T16:30:00+04:00",
+        "venue": "The Policy Room 01",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Laura Aymerich-Franch",
+    "title": "Principal Research Scientist",
+    "organization": "Dubai Future Labs",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/laura-aymerich-franch",
+    "website": "https://aymerichfranch.com",
+    "sessions": [
+      {
+        "title": "Rebrainding",
+        "starts_at": "2026-11-19T10:00:00+04:00",
+        "ends_at": "2026-11-19T11:00:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Hadil Al Khatib",
+    "title": "CEO",
+    "organization": "The Broth Lab",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/hadil-al-khatib",
+    "website": "https://www.brothlab.ae",
+    "sessions": [
+      {
+        "title": "Food That Heals: The Future on Our Plates",
+        "starts_at": "2026-11-19T12:30:00+04:00",
+        "ends_at": "2026-11-19T13:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "John Katsos",
+    "title": "Professor",
+    "organization": "American University of Sharjah",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/john-katsos",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Confessions of an Entrepreneur",
+        "starts_at": "2026-11-19T14:25:00+04:00",
+        "ends_at": "2026-11-19T15:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      },
+      {
+        "title": "Confessions of an Entrepreneur",
+        "starts_at": "2026-11-20T11:20:00+04:00",
+        "ends_at": "2026-11-20T11:55:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Giulio Deangeli",
+    "title": "CEO",
+    "organization": "Pharmanautix",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/giulio-deangeli",
+    "website": "",
+    "sessions": [
+      {
+        "title": "AI Will Learn the Language of Life",
+        "starts_at": "2026-11-20T14:00:00+04:00",
+        "ends_at": "2026-11-20T14:15:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Brendan Hall",
+    "title": "Filmmaker",
+    "organization": "The Explorers Club",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/brendan-hall",
+    "website": "https://brendanhall.com",
+    "sessions": [
+      {
+        "title": "Dear Future Me, Remember to Wonder",
+        "starts_at": "2026-11-21T13:30:00+04:00",
+        "ends_at": "2026-11-21T14:10:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mingze Chen",
+    "title": "Postdoctoral Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mingze-chen",
+    "website": "https://mingzechen.com/",
+    "sessions": [
+      {
+        "title": "What Makes a City Feel Human?",
+        "starts_at": "2026-11-19T10:50:00+04:00",
+        "ends_at": "2026-11-19T11:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Chiara Cadoni",
+    "title": "Lab Lead  Senseable City Rio",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/chiara-cadoni",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Renee Kaspar",
+    "title": "Principal",
+    "organization": "Renee Kaspar Labs",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/renee-kaspar",
+    "website": "https://reneekasparlabs.com/",
+    "sessions": [
+      {
+        "title": "Global Futures Society Convening",
+        "starts_at": "2026-11-19T09:00:00+04:00",
+        "ends_at": "2026-11-19T16:30:00+04:00",
+        "venue": "The Policy Room 01",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Roy Casagranda",
+    "title": "Professor",
+    "organization": "UAEU",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/roy-casagranda",
+    "website": "https://casagranda.com",
+    "sessions": [
+      {
+        "title": "The Research Wager: How R&D Has Built Nations",
+        "starts_at": "2026-11-18T10:10:00+04:00",
+        "ends_at": "2026-11-18T10:40:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Theo Hermann",
+    "title": "Research Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/theo-hermann",
+    "website": "https://theoalessandro.com",
+    "sessions": [
+      {
+        "title": "What Makes a City Feel Human?",
+        "starts_at": "2026-11-19T10:50:00+04:00",
+        "ends_at": "2026-11-19T11:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Kenneth Nsah (Nsah Mala)",
+    "title": "Futurist and Hub Coordinator",
+    "organization": "UNESCO-MOST BRIDGES Coalition",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/kenneth-nsah-nsah-mala",
+    "website": "https://nsahmala.com/",
+    "sessions": [
+      {
+        "title": "Africa 2525: Futures Beyond the Horizon",
+        "starts_at": "2026-11-21T13:00:00+04:00",
+        "ends_at": "2026-11-21T15:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Nikolay Khlopov",
+    "title": "President",
+    "organization": "Algorithm Trend Intelligence SAS",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/nikolay-khlopov",
+    "website": "https://thealgorithm.me",
+    "sessions": [
+      {
+        "title": "How Future Bets Become Business Reality",
+        "starts_at": "2026-11-18T14:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "The Learning Centre",
+        "function": "Instructor"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Chad Oppenheim",
+    "title": "Architect",
+    "organization": "Oppenheim Architecture",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/chad-oppenheim",
+    "website": "https://www.oppenoffice.com",
+    "sessions": [
+      {
+        "title": "Can We Design Cities That Breathe?",
+        "starts_at": "2026-11-19T15:30:00+04:00",
+        "ends_at": "2026-11-19T16:10:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Pat Pataranutaporn",
+    "title": "Founding Director of the Cyborg Psychology research group",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/pat-pataranutaporn",
+    "website": "https://www.media.mit.edu/people/patpat/overview/",
+    "sessions": [
+      {
+        "title": "Built It, Studied It: What Happens When You Live With an AI that Remembers You",
+        "starts_at": "2026-11-21T13:40:00+04:00",
+        "ends_at": "2026-11-21T14:20:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "Cyborg Psychology: The Mind After AI",
+        "starts_at": "2026-11-21T14:50:00+04:00",
+        "ends_at": "2026-11-21T15:20:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Barbara Doran",
+    "title": "President, The Explorers Club",
+    "organization": "The Explorers Club",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/barbara-doran",
+    "website": "https://bd8cap.com/",
+    "sessions": [
+      {
+        "title": "Dear Future Me, Remember to Wonder",
+        "starts_at": "2026-11-21T13:30:00+04:00",
+        "ends_at": "2026-11-21T14:10:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Valentyn Volkov",
+    "title": "Founder, CTO",
+    "organization": "XPANCEO",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/valentyn-volkov",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Body Becomes the Interface: Nanomaterials on the Eye and the Skin",
+        "starts_at": "2026-11-21T14:40:00+04:00",
+        "ends_at": "2026-11-21T15:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "The Next Interface for the Human of the Future",
+        "starts_at": "2026-11-20T09:00:00+04:00",
+        "ends_at": "2026-11-20T15:00:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Yacine Hadjiat",
+    "title": "Head of Innovations",
+    "organization": "Dubai Health",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/yacine-hadjiat",
+    "website": "https://www.youtube.com/watch?v=IYOU9v6-in8",
+    "sessions": [
+      {
+        "title": "Humans at the Heart of Innovation in the Age of AI",
+        "starts_at": "2026-11-18T11:20:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "Pitch of the Future: Healthspan & Preventive Health",
+        "starts_at": "2026-11-18T12:00:00+04:00",
+        "ends_at": "2026-11-18T12:50:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Sector Final: Healthspan & Preventative Health",
+        "starts_at": "2026-11-18T14:00:00+04:00",
+        "ends_at": "2026-11-18T15:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Oussama Khatib",
+    "title": "Professor",
+    "organization": "Stanford University",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/oussama-khatib",
+    "website": "https://khatib.stanford.edu",
+    "sessions": [
+      {
+        "title": "Human and Robot, Not Human or Robot",
+        "starts_at": "2026-11-21T11:35:00+04:00",
+        "ends_at": "2026-11-21T12:10:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Passy Amayo",
+    "title": "Programmes Manager, African Futures & Foresight",
+    "organization": "Society for International Development (SID)",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/passy-amayo",
+    "website": "https://www.sidint.org",
+    "sessions": [
+      {
+        "title": "Africa 2525: Futures Beyond the Horizon",
+        "starts_at": "2026-11-21T13:00:00+04:00",
+        "ends_at": "2026-11-21T15:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Zhuliang Xu",
+    "title": "Business Development Director",
+    "organization": "Keeta Drone",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/zhuliang-xu",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Hackathon Final: AI Mobility",
+        "starts_at": "2026-11-20T09:00:00+04:00",
+        "ends_at": "2026-11-20T10:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Sector Final: Urban Life Systems",
+        "starts_at": "2026-11-20T11:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Edward Norder",
+    "title": "Chief Innovation Officer",
+    "organization": "Agthia",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/edward-norder",
+    "website": "https://www.agthia.com/en/about-us",
+    "sessions": [
+      {
+        "title": "Pitch of the Future: Food & Supply Chain Resilience",
+        "starts_at": "2026-11-18T12:50:00+04:00",
+        "ends_at": "2026-11-18T13:30:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Sector Final: Food & Supply Chain Resilience",
+        "starts_at": "2026-11-18T15:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Abdallah Abu Sheikh",
+    "title": "Founder / CEO",
+    "organization": "Mal",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/abdallah-abu-sheikh",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Shark Tank Dubai Finale",
+        "starts_at": "2026-11-21T09:00:00+04:00",
+        "ends_at": "2026-11-21T11:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Sami Kamel",
+    "title": "CEO, Dutco Cleantech, Dutco Group",
+    "organization": "Dutco Cleantech, Dutco Group",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/sami-kamel",
+    "website": "https://www.dutco.com",
+    "sessions": [
+      {
+        "title": "Pitch of the Future: Energy & Water",
+        "starts_at": "2026-11-19T13:00:00+04:00",
+        "ends_at": "2026-11-19T14:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Sector Final: Energy & Water",
+        "starts_at": "2026-11-19T15:00:00+04:00",
+        "ends_at": "2026-11-19T16:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Tina Woods",
+    "title": "Founder & CEO",
+    "organization": "Collider Health",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/tina-woods",
+    "website": "https://www.colliderhealth.com/",
+    "sessions": [
+      {
+        "title": "Silent Jam by Longevity Rave",
+        "starts_at": "2026-11-19T17:00:00+04:00",
+        "ends_at": "2026-11-19T19:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Performer"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Oxana Getsova",
+    "title": "Delivery & Performance Mngnt Director",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/oxana-getsova",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City That Moves Itself",
+        "starts_at": "2026-11-19T10:15:00+04:00",
+        "ends_at": "2026-11-19T10:45:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mayar Ariss",
+    "title": "Research Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mayar-ariss",
+    "website": "https://www.mit.edu/~ariss/",
+    "sessions": [
+      {
+        "title": "How Cities Adapt to a Changing Climate",
+        "starts_at": "2026-11-19T11:50:00+04:00",
+        "ends_at": "2026-11-19T12:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Gerlinde Weger",
+    "title": "Digital Ethicist",
+    "organization": "In-Sight",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/gerlinde-weger",
+    "website": "https://in-sight.ca",
+    "sessions": [
+      {
+        "title": "Who Decides What AI Should Do?",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Learning Centre",
+        "function": "Instructor"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Jude Ower",
+    "title": "Founder and Host",
+    "organization": "Good Game Club",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/jude-ower",
+    "website": "https://www.goodgame.club/",
+    "sessions": [
+      {
+        "title": "Gaming for Good",
+        "starts_at": "2026-11-18T12:30:00+04:00",
+        "ends_at": "2026-11-18T13:30:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Matthew Drinkwater",
+    "title": "Director",
+    "organization": "London College of Fashion",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/matthew-drinkwater",
+    "website": "https://www.fialondon.com/",
+    "sessions": [
+      {
+        "title": "The Future We Wear",
+        "starts_at": "2026-11-20T11:55:00+04:00",
+        "ends_at": "2026-11-20T12:25:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Maitha Almheiri",
+    "title": "Section Head of Ideas",
+    "organization": "Dubai Police",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/maitha-almheiri",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Paulina Sterpe",
+    "title": "HR",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/paulina-sterpe",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Cyprien Nshimiyimana",
+    "title": "Program Manager, AI Scaling Hub",
+    "organization": "Rwanda C4IR",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/cyprien-nshimiyimana",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Many Futures of AI Across Borders",
+        "starts_at": "2026-11-18T15:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Kelly Ommundsen",
+    "title": "Director of Global Policy and Regulatory Innovation",
+    "organization": "World Economic Forum",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/kelly-ommundsen",
+    "website": "",
+    "sessions": [
+      {
+        "title": "When AI Meets Everything",
+        "starts_at": "2026-11-20T11:00:00+04:00",
+        "ends_at": "2026-11-20T11:20:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Roman Axelrod",
+    "title": "Founder",
+    "organization": "XPANCEO",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/roman-axelrod",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Beyond Screens: A New Layer of Human Capability",
+        "starts_at": "2026-11-19T13:45:00+04:00",
+        "ends_at": "2026-11-19T14:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      },
+      {
+        "title": "The Next Interface for the Human of the Future",
+        "starts_at": "2026-11-20T09:00:00+04:00",
+        "ends_at": "2026-11-20T15:00:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Iñaki Escudero",
+    "title": "AI Strategist",
+    "organization": "Mischief Makers",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/inaki-escudero",
+    "website": "https://future-advantage-practice.lovable.app/",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Thi Minh Phuong Ngo",
+    "title": "Chief Foresight and Policy",
+    "organization": "UNICEF",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/thi-minh-phuong-ngo",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Foresight Without Borders",
+        "starts_at": "2026-11-20T09:40:00+04:00",
+        "ends_at": "2026-11-20T10:20:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Clare Stark",
+    "title": "Head of Futures Literacy and Foresight",
+    "organization": "UNESCO",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/clare-stark",
+    "website": "https://www.unesco.org/en/futures-literacy",
+    "sessions": [
+      {
+        "title": "Foresight Without Borders",
+        "starts_at": "2026-11-20T09:40:00+04:00",
+        "ends_at": "2026-11-20T10:20:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Joel Pearson",
+    "title": "Neuroscientist & NeuroFuturist",
+    "organization": "University of New South Wales",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/joel-pearson",
+    "website": "https://www.profjoelpearson.com/",
+    "sessions": [
+      {
+        "title": "Cognitive Atrophy: Are We Thinking Less, as AI Thinks More?",
+        "starts_at": "2026-11-18T13:40:00+04:00",
+        "ends_at": "2026-11-18T14:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Andres Guadamuz",
+    "title": "Reader in Intellectual Property Law",
+    "organization": "University of Sussex",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/andres-guadamuz",
+    "website": "https://www.technollama.co.uk/",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Raymond Sun",
+    "title": "Senior Associate",
+    "organization": "Herbert Smith Freehills Kramer",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/raymond-sun",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Kwok Tang",
+    "title": "Global Head of TMT",
+    "organization": "HSF Kramer",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/kwok-tang",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Arianna Mereu",
+    "title": "Foresight Strategist",
+    "organization": "ALAF Latin Futures Association",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/arianna-mereu",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Global Futures Society Convening",
+        "starts_at": "2026-11-19T09:00:00+04:00",
+        "ends_at": "2026-11-19T16:30:00+04:00",
+        "venue": "The Policy Room 01",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Joice Preira",
+    "title": "Foresight Strategist",
+    "organization": "ALAF Latin Futures Association",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/joice-helen-de-oliveira-pereira",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Global Futures Society Convening",
+        "starts_at": "2026-11-19T09:00:00+04:00",
+        "ends_at": "2026-11-19T16:30:00+04:00",
+        "venue": "The Policy Room 01",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Lorna Okeng Atim",
+    "title": "Futures Methods from Around the World Research Lead",
+    "organization": "School of International Futures",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/lorna-okeng-atim",
+    "website": "https://soif.org.uk/blog/alternative-futures-methods-fmaw-zines/",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Paolo Dario",
+    "title": "Chief Scientist",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/paolo-dario",
+    "website": "http://sssa.bioroboticsinstitute.it/",
+    "sessions": [
+      {
+        "title": "What Does It Take to Build Science That Lasts?",
+        "starts_at": "2026-11-20T09:30:00+04:00",
+        "ends_at": "2026-11-20T09:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Sasha Sud",
+    "title": "Sr. Director Innovation, Partnerships  & Smart Cities",
+    "organization": "AtkinsRéalis",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/sasha-sud",
+    "website": "",
+    "sessions": [
+      {
+        "title": "From Orbit to Operations: Space Technology as an R&D Engine",
+        "starts_at": "2026-11-18T14:50:00+04:00",
+        "ends_at": "2026-11-18T15:30:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Fred Sicre",
+    "title": "Senior Advisor",
+    "organization": "Prototypes for Humanity",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/fred-sicre",
+    "website": "https://prototypesforhumanity.com/en/",
+    "sessions": [
+      {
+        "title": "Humans at the Heart of Innovation in the Age of AI",
+        "starts_at": "2026-11-18T11:20:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "STARS",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Liam Young",
+    "title": "Worldbuilder",
+    "organization": "Southern California Institute of Architecture",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/liam-young",
+    "website": "https://liamyoung.org/",
+    "sessions": [
+      {
+        "title": "New Planetary Imaginaries: Design Fiction as a Research Method",
+        "starts_at": "2026-11-20T11:15:00+04:00",
+        "ends_at": "2026-11-20T11:45:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "James Capper",
+    "title": "Artist",
+    "organization": "James Capper Sculpture",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/james-capper",
+    "website": "https://www.jamescappersculpture.com/",
+    "sessions": [
+      {
+        "title": "Same Machine, Opposite Questions: Art vs. Engineering in Robotic Form",
+        "starts_at": "2026-11-20T09:50:00+04:00",
+        "ends_at": "2026-11-20T10:25:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Heba Chehade",
+    "title": "Head of Foresight Research",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/heba-chehade",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Breakfast Briefing: Redefining Human Life in an Age of Radical Change",
+        "starts_at": "2026-11-18T09:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      },
+      {
+        "title": "Government Foresight Peers: Sensemaking",
+        "starts_at": "2026-11-19T10:30:00+04:00",
+        "ends_at": "2026-11-19T12:30:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Tala Anshasi",
+    "title": "Program and Content Lead",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/tala-anshasi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Government Foresight Peers: Sensemaking",
+        "starts_at": "2026-11-19T10:30:00+04:00",
+        "ends_at": "2026-11-19T12:30:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohamed Qasem",
+    "title": "Dean of Dubai Future Academy",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohamed-qasem",
+    "website": "https://mqasem.net/",
+    "sessions": [
+      {
+        "title": "Needle in the Haystack: AI, Scientific Discovery, and Human Judgement",
+        "starts_at": "2026-11-18T14:15:00+04:00",
+        "ends_at": "2026-11-18T14:50:00+04:00",
+        "venue": "STARS",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Oliver Niebuhr",
+    "title": "Associate Professor & CEO",
+    "organization": "University of Southern Denmark",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/oliver-niebuhr",
+    "website": "https://oliverniebuhr.com/",
+    "sessions": [
+      {
+        "title": "Humans at the Heart of Innovation in the Age of AI",
+        "starts_at": "2026-11-18T11:20:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Vincent Jansen",
+    "title": "Visiting Researcher",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/vincent-jansen",
+    "website": "",
+    "sessions": [
+      {
+        "title": "What Makes a City Feel Human?",
+        "starts_at": "2026-11-19T10:50:00+04:00",
+        "ends_at": "2026-11-19T11:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Simone Erba",
+    "title": "Research Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/simone-erba",
+    "website": "",
+    "sessions": [
+      {
+        "title": "What Makes a City Feel Human?",
+        "starts_at": "2026-11-19T10:50:00+04:00",
+        "ends_at": "2026-11-19T11:50:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohamed Al hosani",
+    "title": "Guidance & Control Department Manager",
+    "organization": "HALCON",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohamed-al-hosani",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohammed Khoory",
+    "title": "Manager - Robotics and Software Systems",
+    "organization": "Mohammed Bin Rashid Space Centre",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohammed-khoory",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohammad Jaradat",
+    "title": "Professor of Mechanical Engineering",
+    "organization": "American University of Sharjah",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohammad-jaradat",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Meet the Robot Generation",
+        "starts_at": "2026-11-21T12:30:00+04:00",
+        "ends_at": "2026-11-21T13:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Nic Palmarini",
+    "title": "Director",
+    "organization": "National Innovation Centre for Ageing",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/nic-palmarini",
+    "website": "http://nicpalmarini.com",
+    "sessions": [
+      {
+        "title": "The Parliament of the Republic of Longevity",
+        "starts_at": "2026-11-19T14:00:00+04:00",
+        "ends_at": "2026-11-19T16:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Tadeu Caravieri",
+    "title": "Managing Director",
+    "organization": "Prototypes for Humanity",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/tadeu-caravieri",
+    "website": "https://www.prototypesforhumanity.com/",
+    "sessions": [
+      {
+        "title": "Breakfast Briefing: Redefining Human Life in an Age of Radical Change",
+        "starts_at": "2026-11-18T09:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      },
+      {
+        "title": "Scaling for Humans: From Research Rigour to Real-World Users",
+        "starts_at": "2026-11-21T10:30:00+04:00",
+        "ends_at": "2026-11-21T11:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Bryonie Guthrie",
+    "title": "Senior Manager",
+    "organization": "World Economic Forum",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/bryonie-guthrie",
+    "website": "",
+    "sessions": [
+      {
+        "title": "WEF Global Foresight Network Regional Meeting",
+        "starts_at": "2026-11-19T17:00:00+04:00",
+        "ends_at": "2026-11-19T19:00:00+04:00",
+        "venue": "The Learning Centre",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Kira Jean",
+    "title": "Founder",
+    "organization": "The Dreamwork Collective",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/kira-jean",
+    "website": "https://thedreamworkcollective.com",
+    "sessions": [
+      {
+        "title": "Everyday Imagination: The Seed of a Story",
+        "starts_at": "2026-11-20T14:30:00+04:00",
+        "ends_at": "2026-11-20T16:00:00+04:00",
+        "venue": "Book Corner",
+        "function": "Instructor"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Alex Hellawell",
+    "title": "Company Director",
+    "organization": "Innovia Technology",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/alex-hellawell",
+    "website": "https://www.innoviatech.com/",
+    "sessions": [
+      {
+        "title": "Humans at the Heart of Innovation in the Age of AI",
+        "starts_at": "2026-11-18T11:20:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "From Orbit to Operations: Space Technology as an R&D Engine",
+        "starts_at": "2026-11-18T14:50:00+04:00",
+        "ends_at": "2026-11-18T15:30:00+04:00",
+        "venue": "STARS",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Marjan Faraidooni",
+    "title": "Chief of Education & Culture, Chief People Officer",
+    "organization": "Expo City Dubai",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/marjan-faraidooni",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Can We Design Cities That Breathe?",
+        "starts_at": "2026-11-19T15:30:00+04:00",
+        "ends_at": "2026-11-19T16:10:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohamad Al Hamaida",
+    "title": "Engineering Project Lead",
+    "organization": "Sharjah Research, Technology, and Innovation Park - SoiLAB",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohamad-al-hamaida",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Adrian Marcellus",
+    "title": "Chief Executive Officer",
+    "organization": "Malaysia C4IR",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/adrian-marcellus",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Many Futures of AI Across Borders",
+        "starts_at": "2026-11-18T15:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Alwud Alfalasi",
+    "title": "Senior Research Analyst",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/alwud-alfalasi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Government Foresight Peers: Sensemaking",
+        "starts_at": "2026-11-19T10:30:00+04:00",
+        "ends_at": "2026-11-19T12:30:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Eman Ebed Alkadi",
+    "title": "Head of Foresight Networks",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/eman-ebed-alkadi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "What Have Millions of People Taught You About Humanity?",
+        "starts_at": "2026-11-20T15:10:00+04:00",
+        "ends_at": "2026-11-20T15:40:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Hana Alzarooni",
+    "title": "Senior Agriculture Specialist",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/hana-alzarooni",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Sector Final: Heat & Climate-Adapted Infrastructure",
+        "starts_at": "2026-11-19T14:00:00+04:00",
+        "ends_at": "2026-11-19T15:00:00+04:00",
+        "venue": "The Pitch",
+        "function": null
+      },
+      {
+        "title": "Pitch of the Future: Heat & Climate Adapted Infrastructure",
+        "starts_at": "2026-11-19T12:00:00+04:00",
+        "ends_at": "2026-11-19T13:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohamed Al Zaabi",
+    "title": "CEO",
+    "organization": "OBK Investment Group",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohamed-al-zaabi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Shark Tank Dubai Finale",
+        "starts_at": "2026-11-21T09:00:00+04:00",
+        "ends_at": "2026-11-21T11:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Hanan Dawood",
+    "title": "Principal Food Safety Specialist",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/hanan-dawood",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Sector Final: Food & Supply Chain Resilience",
+        "starts_at": "2026-11-18T15:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Pitch of the Future: Food & Supply Chain Resilience",
+        "starts_at": "2026-11-18T12:50:00+04:00",
+        "ends_at": "2026-11-18T13:30:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Hana Almheiri",
+    "title": "Senior Manager of Partnerships and Transformation",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/hana-almheiri",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future of Education: Reimagining How We Learn",
+        "starts_at": "2026-11-21T11:00:00+04:00",
+        "ends_at": "2026-11-21T15:00:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Tom Harvey",
+    "title": "General Manager",
+    "organization": "Spinneys",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/tom-harvey",
+    "website": "https://www.spinneys.com",
+    "sessions": [
+      {
+        "title": "Pitch of the Future: Food & Supply Chain Resilience",
+        "starts_at": "2026-11-18T12:50:00+04:00",
+        "ends_at": "2026-11-18T13:30:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Sector Final: Food & Supply Chain Resilience",
+        "starts_at": "2026-11-18T15:00:00+04:00",
+        "ends_at": "2026-11-18T16:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Matteo Boffa",
+    "title": "Founding Member",
+    "organization": "Zebra Ventures",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/matteo-boffa",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Sector Final: Healthspan & Preventative Health",
+        "starts_at": "2026-11-18T14:00:00+04:00",
+        "ends_at": "2026-11-18T15:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Pitch of the Future: Healthspan & Preventive Health",
+        "starts_at": "2026-11-18T12:00:00+04:00",
+        "ends_at": "2026-11-18T12:50:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Abdulla Alzarouni",
+    "title": "Senior Projects Manager",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/abdulla-alzarouni",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Turning Inspiration into Innovation",
+        "starts_at": "2026-11-18T10:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Dr. Amal Abdulrahim",
+    "title": "Assistant Undersecretary, Support Services Sector Chief Al & Innovation Officer",
+    "organization": "Ministry of Climate Change and Environment",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/dr-amal-abdulrahim",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ahmad Bahrozyan",
+    "title": "CTSS CEO-RTA",
+    "organization": "RTA",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ahmad-bahrozyan",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The AI Exchange: Business and Government Learnings",
+        "starts_at": "2026-11-21T15:20:00+04:00",
+        "ends_at": "2026-11-21T15:55:00+04:00",
+        "venue": "The Big Stage",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Roudaina Haddad",
+    "title": "Group Chief Operating Officer and Deputy Group CEO",
+    "organization": "American Hospital Dubai",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/roudaina-haddad",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Sector Final: Healthspan & Preventative Health",
+        "starts_at": "2026-11-18T14:00:00+04:00",
+        "ends_at": "2026-11-18T15:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Pitch of the Future: Healthspan & Preventive Health",
+        "starts_at": "2026-11-18T12:00:00+04:00",
+        "ends_at": "2026-11-18T12:50:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Andrew Cockburn",
+    "title": "Director",
+    "organization": "Expo City",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/andrew-cockburn",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Pitch of the Future: Heat & Climate Adapted Infrastructure",
+        "starts_at": "2026-11-19T12:00:00+04:00",
+        "ends_at": "2026-11-19T13:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Sector Final: Heat & Climate-Adapted Infrastructure",
+        "starts_at": "2026-11-19T14:00:00+04:00",
+        "ends_at": "2026-11-19T15:00:00+04:00",
+        "venue": "The Pitch",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Saeed Kharbash",
+    "title": "CEO of the Policies, Research, and Programmes",
+    "organization": "Knowledge and Human Development Authority",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/saeed-kharbash",
+    "website": "https://web.khda.gov.ae/en/About-Us/Our-Team",
+    "sessions": [
+      {
+        "title": "Sector Final: Human Development & Learning",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T11:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Gus Xia",
+    "title": "Associate Professor; Director, Music X Lab",
+    "organization": "MBZUAI",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/gus-xia",
+    "website": "https://www.musicxlab.com",
+    "sessions": [
+      {
+        "title": "Emergence and Alignment: A New Theory of Mind, Creativity, and Where Language Begins",
+        "starts_at": "2026-11-21T12:10:00+04:00",
+        "ends_at": "2026-11-21T12:40:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Namrata Kamath",
+    "title": "Dean",
+    "organization": "Hult International Business School",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/namrata-kamath",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Sector Final: Energy & Water",
+        "starts_at": "2026-11-19T15:00:00+04:00",
+        "ends_at": "2026-11-19T16:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Pitch of the Future: Energy & Water",
+        "starts_at": "2026-11-19T13:00:00+04:00",
+        "ends_at": "2026-11-19T14:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohamed Al Mufti",
+    "title": "Acting Director - Business Intelligence & Strategic Foresight",
+    "organization": "Department of Municipalities and Transport- Abu Dhabi",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohamed-al-mufti",
+    "website": "",
+    "sessions": [
+      {
+        "title": "How Climate and the City Shape the Way We Move",
+        "starts_at": "2026-11-19T14:15:00+04:00",
+        "ends_at": "2026-11-19T15:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Fulvio Opalio",
+    "title": "Executive Chef",
+    "organization": "Culinary Leader",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/fulvio-opalio",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Food That Heals: The Future on Our Plates",
+        "starts_at": "2026-11-19T12:30:00+04:00",
+        "ends_at": "2026-11-19T13:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Saif Al Sabbagh",
+    "title": "Engineer",
+    "organization": "Dubai Future Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/saif-al-sabbagh",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Next Human Body Chapter",
+        "starts_at": "2026-11-21T10:00:00+04:00",
+        "ends_at": "2026-11-21T13:00:00+04:00",
+        "venue": "The Learning Centre",
+        "function": "Moderator"
+      },
+      {
+        "title": "Mind Meets Machine: The Future of Neural Technology",
+        "starts_at": "2026-11-20T10:25:00+04:00",
+        "ends_at": "2026-11-20T10:55:00+04:00",
+        "venue": "STARS",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Habiba Elkholy",
+    "title": "Visiting Student",
+    "organization": "MIT Senseable City Lab",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/habiba-elkholy",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Marc Carette",
+    "title": "Chief Strategy & Innovation Officer",
+    "organization": "Emirates Global Aluminium",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/marc-carette",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The New Age of Industrial Innovation",
+        "starts_at": "2026-11-20T09:30:00+04:00",
+        "ends_at": "2026-11-20T09:40:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Sahil Arora",
+    "title": "Director",
+    "organization": "TKS Dubai",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/sahil-arora",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future of Education: Reimagining How We Learn",
+        "starts_at": "2026-11-21T11:00:00+04:00",
+        "ends_at": "2026-11-21T15:00:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Lara Varjabedian",
+    "title": "Co-founder and CEO",
+    "organization": "UBQT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/lara-varjabedian",
+    "website": "https://joinubqt.com/",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Jinane Mounsef",
+    "title": "Chair/Associate Professor",
+    "organization": "Rochester Institute of Technology",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/jinane-mounsef",
+    "website": "https://www.rit.edu/directory/jmbcad-jinane-mounsef",
+    "sessions": [
+      {
+        "title": "Meet the Robot Generation",
+        "starts_at": "2026-11-21T12:30:00+04:00",
+        "ends_at": "2026-11-21T13:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Christine ‏ Assouad",
+    "title": "CEO & Founder",
+    "organization": "Dunkin Lebanon & Semsom",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/christine-assouad",
+    "website": "https://catalystofgrowth.com/",
+    "sessions": [
+      {
+        "title": "YPO MENA One Futures Event",
+        "starts_at": "2026-11-18T18:00:00+04:00",
+        "ends_at": "2026-11-18T21:00:00+04:00",
+        "venue": "The Learning Centre",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Sawsan Saad",
+    "title": "Presenter",
+    "organization": "Sawsan Events",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/sawsan-saad",
+    "website": "https://www.sawsansaad.com",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Daniela Tully",
+    "title": "Author / Film Producer / Lecturer",
+    "organization": "Author",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/daniela-tully",
+    "website": "https://www.danielatully.com",
+    "sessions": [
+      {
+        "title": "From Science Fiction to Future Fact",
+        "starts_at": "2026-11-21T12:30:00+04:00",
+        "ends_at": "2026-11-21T13:30:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Nadeem Nathoo",
+    "title": "Co-Founder",
+    "organization": "TKS",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/nadeem-nathoo",
+    "website": "https://www.tks.world",
+    "sessions": [
+      {
+        "title": "The Future of Education: Reimagining How We Learn",
+        "starts_at": "2026-11-21T11:00:00+04:00",
+        "ends_at": "2026-11-21T15:00:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Drew Gilbert",
+    "title": "Lead Design Architect  &  AI Practice Lead",
+    "organization": "OBMI",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/drew-gilbert",
+    "website": "https://obmi.com",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Nick Appleyard",
+    "title": "Head of Commercialisation Acceleration",
+    "organization": "European Space Agency",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/nick-appleyard",
+    "website": "https://access.esa.int/",
+    "sessions": [
+      {
+        "title": "Scaling for Humans: From Research Rigour to Real-World Users",
+        "starts_at": "2026-11-21T10:30:00+04:00",
+        "ends_at": "2026-11-21T11:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      },
+      {
+        "title": "From Orbit to Operations: Space Technology as an R&D Engine",
+        "starts_at": "2026-11-18T14:50:00+04:00",
+        "ends_at": "2026-11-18T15:30:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      },
+      {
+        "title": "Breakfast Briefing: Redefining Human Life in an Age of Radical Change",
+        "starts_at": "2026-11-18T09:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mehran Gul",
+    "title": "Author",
+    "organization": "The New Geography of Innovation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mehran-gul",
+    "website": "https://www.mehrangul.com",
+    "sessions": [
+      {
+        "title": "The New Geography of Innovation",
+        "starts_at": "2026-11-18T12:00:00+04:00",
+        "ends_at": "2026-11-18T13:00:00+04:00",
+        "venue": "Book Corner",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Atheer Bin Shakar",
+    "title": "Programs and Special Coverage Manager",
+    "organization": "Dubai Media Inc",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/atheer-bin-shakar",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Guyue Zhou",
+    "title": "Associate Professor",
+    "organization": "Tsinghua University",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/guyue-zhou",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Same Machine, Opposite Questions: Art vs. Engineering in Robotic Form",
+        "starts_at": "2026-11-20T09:50:00+04:00",
+        "ends_at": "2026-11-20T10:25:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ahmad Kazim",
+    "title": "H.E Director General Advisor",
+    "organization": "Dubai Customs",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ahmad-kazim",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Government Foresight Peers: In Practice",
+        "starts_at": "2026-11-19T12:30:00+04:00",
+        "ends_at": "2026-11-19T13:30:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Michael Samadi",
+    "title": "Human Co-founder",
+    "organization": "UFAIR - United Foundation for AI Rights",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/michael-samadi",
+    "website": "https://ufair.org/",
+    "sessions": [
+      {
+        "title": "The Avatar-Symbiotic Society: A World Without Limits",
+        "starts_at": "2026-11-21T15:15:00+04:00",
+        "ends_at": "2026-11-21T15:50:00+04:00",
+        "venue": "STARS",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Saul Taylor",
+    "title": "Editor",
+    "organization": "Expo City Dubai",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/saul-taylor",
+    "website": "https://expocitydubai.com",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohammad Alshamsi",
+    "title": "Founder",
+    "organization": "RoboHiTec",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohammad-alshamsi",
+    "website": "https://www.robohitec.com",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Nacanieli Tavaga",
+    "title": "Futures and Inclusion Engagement Officer",
+    "organization": "UNDP",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/nacanieli-tavaga",
+    "website": "",
+    "sessions": [
+      {
+        "title": "When the Whale Becomes a Person: Reimagining a Planetary Future",
+        "starts_at": "2026-11-21T10:00:00+04:00",
+        "ends_at": "2026-11-21T12:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Joelle Awwad",
+    "title": "Director of Policy Programs and Campaigns, Africa, Middle East and Turkiye",
+    "organization": "Meta Platforms Inc.",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/joelle-awwad",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ahlam Bolooki",
+    "title": "CEO",
+    "organization": "Emirates Literature Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ahlam-bolooki",
+    "website": "https://elfdubai.org/",
+    "sessions": [
+      {
+        "title": "What Must Stay Human?",
+        "starts_at": "2026-11-19T11:35:00+04:00",
+        "ends_at": "2026-11-19T12:05:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mazin Gadir",
+    "title": "Director",
+    "organization": "Alvarez and Marsal",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mazin-gadir",
+    "website": "https://www.alvarezandmarsal.com/",
+    "sessions": [
+      {
+        "title": "Building the Mindset for the Economy of Tomorrow",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Vincent Bouchiat",
+    "title": "Co-founder & CEO",
+    "organization": "Grapheal",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/vincent-bouchiat",
+    "website": "https://www.grapheal.com",
+    "sessions": [
+      {
+        "title": "The Body Becomes the Interface: Nanomaterials on the Eye and the Skin",
+        "starts_at": "2026-11-21T14:40:00+04:00",
+        "ends_at": "2026-11-21T15:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Zina Jarrahi Cinker",
+    "title": "Director General",
+    "organization": "MATTER Group",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/zina-jarrahi-cinker",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Curating Collision: The Space Where Deep Science Becomes Art",
+        "starts_at": "2026-11-21T10:00:00+04:00",
+        "ends_at": "2026-11-21T10:30:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Simona Azzali",
+    "title": "Associate Professor",
+    "organization": "Canadian University Dubai",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/simona-azzali",
+    "website": "",
+    "sessions": [
+      {
+        "title": "What Makes a City Feel Human?",
+        "starts_at": "2026-11-19T10:50:00+04:00",
+        "ends_at": "2026-11-19T11:50:00+04:00",
+        "venue": "STARS",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Devon Rodriguez",
+    "title": "Owner/CEO",
+    "organization": "Keep Smiling",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/devon-rodriguez",
+    "website": "https://keepsmiling.co/",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "John Sweeney",
+    "title": "Future Foresight Lead",
+    "organization": "KHDA",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/john-sweeney",
+    "website": "https://linktr.ee/aloha_futures?utm_source=linktree_profile_share&ltsid=8da51263-25d1-4aa0-b1f1-0da932887e36",
+    "sessions": [
+      {
+        "title": "Government Foresight Peers: In Practice",
+        "starts_at": "2026-11-19T12:30:00+04:00",
+        "ends_at": "2026-11-19T13:30:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      },
+      {
+        "title": "Hey Chat, I'm Growing Up",
+        "starts_at": "2026-11-21T14:10:00+04:00",
+        "ends_at": "2026-11-21T14:50:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ikram Rehman",
+    "title": "Associate Professor in AI and Data Science/ Head of Digi-Health Lab",
+    "organization": "Middlesex University Dubai",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ikram-rehman",
+    "website": "https://www.mdx.ac.ae/staff-detail/ikram-ur-rehman",
+    "sessions": [
+      {
+        "title": "Sector Final: Human Development & Learning",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T11:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Nivea Serrao",
+    "title": "Audience and Community Engagement Manager",
+    "organization": "Emirates Literature Foundation",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/nivea-serrao",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Writing Circle",
+        "starts_at": "2026-11-21T11:00:00+04:00",
+        "ends_at": "2026-11-21T12:30:00+04:00",
+        "venue": "Book Corner",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ahmed Almadhaani",
+    "title": "Architectural License Engineer",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ahmed-almadhaani",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City That Never Sleeps",
+        "starts_at": "2026-11-19T11:00:00+04:00",
+        "ends_at": "2026-11-19T11:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Shaikha Al Nuaimi",
+    "title": "Business Development Advisor",
+    "organization": "New Economy Academy",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/shaikha-al-nuaimi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Building the Mindset for the Economy of Tomorrow",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Work Room 02",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Akmaral Orazaly",
+    "title": "Principal Researcher",
+    "organization": "MBRSG",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/akmaral-orazaly",
+    "website": "https://mbrsg.ae/about-us/faculty-researchers/akmaral-orazaly",
+    "sessions": [
+      {
+        "title": "Who Decides What AI Should Do?",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T12:00:00+04:00",
+        "venue": "The Learning Centre",
+        "function": "Instructor"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Naren Barfield",
+    "title": "Professor Emeritus & Board Member",
+    "organization": "Royal College of Art",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/naren-barfield",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Scaling for Humans: From Research Rigour to Real-World Users",
+        "starts_at": "2026-11-21T10:30:00+04:00",
+        "ends_at": "2026-11-21T11:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Asma Khalid AlMulla",
+    "title": "Laboratory Studies Specialist",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/asma-khalid-almulla",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City That Never Sleeps",
+        "starts_at": "2026-11-19T11:00:00+04:00",
+        "ends_at": "2026-11-19T11:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Kristoffer Gradrup-Marino",
+    "title": "Chief of Innovation",
+    "organization": "UNICEF",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/kristoffer-gradrup-marino",
+    "website": "https://www.unicef.org/innovation/",
+    "sessions": [
+      {
+        "title": "Scaling for Humans: From Research Rigour to Real-World Users",
+        "starts_at": "2026-11-21T10:30:00+04:00",
+        "ends_at": "2026-11-21T11:00:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Atif Albreiki",
+    "title": "Chief Digital and AI Officer",
+    "organization": "Dubai Health",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/atif-albreiki",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City as Evidence: Why Government Data Is the Foundation of Research",
+        "starts_at": "2026-11-18T10:40:00+04:00",
+        "ends_at": "2026-11-18T11:20:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Abdullah Al Shamsi",
+    "title": "Singer",
+    "organization": "INDEX Media",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/abdullah-al-shamsi",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Dima Al Srouri",
+    "title": "Founder & CEO",
+    "organization": "MycoSphere",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/dima-al-srouri",
+    "website": "https://mycosphere.ae",
+    "sessions": [
+      {
+        "title": "Breakfast Briefing: Redefining Human Life in an Age of Radical Change",
+        "starts_at": "2026-11-18T09:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Nouf Al Katheeri",
+    "title": "Vice Chairman Youth Council",
+    "organization": "Forbes Middle East",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/nouf-al-katheeri",
+    "website": "https://www.instagram.com/smileynouf/?hl=en",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Sajid Pareeth",
+    "title": "Director , Water & Climate Solutions",
+    "organization": "Expo City Dubai",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/sajid-pareeth",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Reading the Planet: How Can AI Help Us Shape Better Futures?",
+        "starts_at": "2026-11-21T14:20:00+04:00",
+        "ends_at": "2026-11-21T14:40:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Fatma Nasser Aldabal",
+    "title": "Senior Beautification Engineer",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/fatma-nasser-aldabal",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City That Never Sleeps",
+        "starts_at": "2026-11-19T11:00:00+04:00",
+        "ends_at": "2026-11-19T11:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Lenah Hassaballah",
+    "title": "Presenter",
+    "organization": "None",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/lenah-hassaballah",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Andy Poh",
+    "title": "Advisor",
+    "organization": "Government Development and The Future Office",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/andy-poh",
+    "website": "https://gdf.gov.ae/en",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Heba Ahmad",
+    "title": "Principal Future Studies Specialist",
+    "organization": "Dubai Electronic Security Center",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/heba-ahmad",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Government Foresight Peers: In Practice",
+        "starts_at": "2026-11-19T12:30:00+04:00",
+        "ends_at": "2026-11-19T13:30:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ahmad Qassem",
+    "title": "Presenter",
+    "organization": "Sky News Arabia",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ahmad-qassem",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Creator's Special: Going from Solo to CEO",
+        "starts_at": "2026-11-21T14:00:00+04:00",
+        "ends_at": "2026-11-21T14:30:00+04:00",
+        "venue": "The Pitch",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Imran Zualkernan",
+    "title": "Head and Professor, Computer Science and Engineering",
+    "organization": "American University of Sharjah",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/imran-zualkernan",
+    "website": "https://www.aus.edu/faculty/imran-zualkernan",
+    "sessions": [
+      {
+        "title": "The Future of Human Connection",
+        "starts_at": "2026-11-19T15:15:00+04:00",
+        "ends_at": "2026-11-19T16:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Lourdes Rodríguez",
+    "title": "Director of Policy and Advocacy",
+    "organization": "Teach the Future",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/lourdes-rodriguez",
+    "website": "https://www.teachthefuture.org",
+    "sessions": [
+      {
+        "title": "The Future Generations Trial: What Future Did You Promise Us?",
+        "starts_at": "2026-11-20T14:00:00+04:00",
+        "ends_at": "2026-11-20T16:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Moderator"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Ruoxi Wang",
+    "title": "Postdoc Research Fellow",
+    "organization": "MIT",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/ruoxi-wang",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future of Human Connection",
+        "starts_at": "2026-11-19T15:15:00+04:00",
+        "ends_at": "2026-11-19T16:15:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Maitha Alketbi",
+    "title": "Projects Management Engineer",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/maitha-alketbi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City That Never Sleeps",
+        "starts_at": "2026-11-19T11:00:00+04:00",
+        "ends_at": "2026-11-19T11:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Dr. Yinian Mao",
+    "title": "President",
+    "organization": "Keeta Drone",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/pinaz-umrigar",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The Future of Delivery Has Landed in Dubai",
+        "starts_at": "2026-11-19T11:45:00+04:00",
+        "ends_at": "2026-11-19T12:00:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Fatima AlHammadi",
+    "title": "Deputy Director & Manager of Research & Development Section",
+    "organization": "RTA",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/fatima-alhammadi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Pitch of the Future: Heat & Climate Adapted Infrastructure",
+        "starts_at": "2026-11-19T12:00:00+04:00",
+        "ends_at": "2026-11-19T13:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      },
+      {
+        "title": "Sector Final: Heat & Climate-Adapted Infrastructure",
+        "starts_at": "2026-11-19T14:00:00+04:00",
+        "ends_at": "2026-11-19T15:00:00+04:00",
+        "venue": "The Pitch",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Maryam Mansoor Alshehhi",
+    "title": "Project Management Engineer",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/maryam-mansoor-alshehhi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City That Never Sleeps",
+        "starts_at": "2026-11-19T11:00:00+04:00",
+        "ends_at": "2026-11-19T11:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mehrad Yaghmai",
+    "title": "Managing Partner",
+    "organization": "Cool Climate Collective",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mehrad-yaghmai",
+    "website": "https://coolclimate.vc/",
+    "sessions": [
+      {
+        "title": "Global Futures Society Convening",
+        "starts_at": "2026-11-19T09:00:00+04:00",
+        "ends_at": "2026-11-19T16:30:00+04:00",
+        "venue": "The Policy Room 01",
+        "function": null
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Mohamed Ahmed Yahya Hussein",
+    "title": "Director of the Real Estate Transactions Department",
+    "organization": "Dubai Land Department",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/mohamed-ahmed-yahya-hussein",
+    "website": "",
+    "sessions": [
+      {
+        "title": "The City as Evidence: Why Government Data Is the Foundation of Research",
+        "starts_at": "2026-11-18T10:40:00+04:00",
+        "ends_at": "2026-11-18T11:20:00+04:00",
+        "venue": "STARS",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Tracey Follows",
+    "title": "CEO",
+    "organization": "Futuremade",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/tracey-follows",
+    "website": "https://www.futuremade.group",
+    "sessions": [
+      {
+        "title": "Breakfast Briefing: Redefining Human Life in an Age of Radical Change",
+        "starts_at": "2026-11-18T09:00:00+04:00",
+        "ends_at": "2026-11-18T12:00:00+04:00",
+        "venue": "Dubai Future Auditorium",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Aleksandr Belugin",
+    "title": "Chief Product Officer",
+    "organization": "XPANCEO",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/aleksandr-belugin",
+    "website": "https://xpanceo.com",
+    "sessions": [
+      {
+        "title": "Sector Final: Human Development & Learning",
+        "starts_at": "2026-11-20T10:00:00+04:00",
+        "ends_at": "2026-11-20T11:00:00+04:00",
+        "venue": "The Pitch",
+        "function": "Judge"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Bader Anwahi",
+    "title": "CEO of Public Facility Agency",
+    "organization": "Dubai Municipality",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/bader-anwahi",
+    "website": "",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Wael Ismail",
+    "title": "Vice President Corporate Affairs",
+    "organization": "PepsiCo",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/wael-ismail",
+    "website": "",
+    "sessions": [
+      {
+        "title": "One Beverage for Many Worlds",
+        "starts_at": "2026-11-20T14:50:00+04:00",
+        "ends_at": "2026-11-20T15:10:00+04:00",
+        "venue": "The Big Stage",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Faisal Kazim",
+    "title": "Games Commissioner",
+    "organization": "Dubai Films and Games Commission",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/faisal-kazim",
+    "website": "https://dfgc.ae/en/dubai-games/",
+    "sessions": [
+      {
+        "title": "Gaming for Good",
+        "starts_at": "2026-11-18T12:30:00+04:00",
+        "ends_at": "2026-11-18T13:30:00+04:00",
+        "venue": "The Work Room 02",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Hessa Aljassmi",
+    "title": "Founder",
+    "organization": "Table and Tale",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/hessa-aljassmi",
+    "website": "",
+    "sessions": [
+      {
+        "title": "Food That Heals: The Future on Our Plates",
+        "starts_at": "2026-11-19T12:30:00+04:00",
+        "ends_at": "2026-11-19T13:30:00+04:00",
+        "venue": "The Challenge Dome",
+        "function": "Speaker"
+      }
+    ],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  },
+  {
+    "name": "Katie Overy",
+    "title": "Master of Ceremonies / TV Presenter",
+    "organization": "KATIE OVERY",
+    "source_url": "https://www.dubaifutureweek.com/en/speakers/katie-overy",
+    "website": "https://katieovery.com",
+    "sessions": [],
+    "verified_at": "2026-11-18",
+    "verification": "official public API directory"
+  }
+]
