@@ -16,6 +16,7 @@
 | 11:20–12:00 | [Humans at the Heart of Innovation in the Age of AI](https://www.dubaifutureweek.com/en/programme?session=SESCCWY9SUT) | [Yacine Hadjiat](people/yacine-hadjiat.md) | invite_only | STARS |
 | 12:00–12:50 | [Pitch of the Future: Healthspan & Preventive Health](https://www.dubaifutureweek.com/en/programme?session=SESBMWRMV7D) | [Yacine Hadjiat](people/yacine-hadjiat.md) | invite_only | The Pitch |
 | 12:00–12:40 | [The Art in the Machine: Robotics Reimagined](https://www.dubaifutureweek.com/en/programme?session=SESVHLD619X) | [Damith Herath](people/damith-herath.md), [Daniel Simu](people/daniel-simu.md) | invite_only | STARS |
+| 12:30–13:30 | [Gaming for Good](https://www.dubaifutureweek.com/en/programme?session=SESACL8CREI) | [Faisal Kazim](people/faisal-kazim.md) | public | The Work Room 02 |
 | 13:40–14:15 | [Cognitive Atrophy: Are We Thinking Less, as AI Thinks More?](https://www.dubaifutureweek.com/en/programme?session=SESFRXS5FEA) | [Joel Pearson](people/joel-pearson.md), [Melanie Subin](people/melanie-subin.md) | invite_only | STARS |
 | 14:00–15:00 | [Sector Final: Healthspan & Preventative Health](https://www.dubaifutureweek.com/en/programme?session=SES6M2UHVZ1) | [Yacine Hadjiat](people/yacine-hadjiat.md) | invite_only | The Pitch |
 | 14:50–15:30 | [From Orbit to Operations: Space Technology as an R&D Engine](https://www.dubaifutureweek.com/en/programme?session=SES8GB6DUQ9) | [Nick Appleyard](people/nick-appleyard.md), [Khaled Al Awadhi](people/khaled-al-awadhi.md) | invite_only | STARS |

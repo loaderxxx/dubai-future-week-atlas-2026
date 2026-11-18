@@ -2,11 +2,11 @@
 
 Обновлено18Nov2026.
 
-Профили: 64 / 570 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 68 / 570 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 33 / 265; организации: 29 / 205; проекты: 2 / 100.
+Люди: 35 / 265; организации: 31 / 205; проекты: 2 / 100.
 
-Статусы: 61 researched_with_gaps; 3 initial_profile. Ни один статус не означает полного аудита.
+Статусы: 64 researched_with_gaps; 4 initial_profile. Ни один статус не означает полного аудита.
 
 - [Marwan Ahmed Bin Ghalita](people/marwan-ahmed-bin-ghalita.md) — researched_with_gaps
 - [Amy Webb](people/amy-webb.md) — researched_with_gaps
@@ -39,16 +39,20 @@
 - [Ahmad Bahrozyan](people/ahmad-bahrozyan.md) — researched_with_gaps
 - [Marc Carette](people/marc-carette.md) — researched_with_gaps
 - [Nick Appleyard](people/nick-appleyard.md) — researched_with_gaps
+- [Atheer Bin Shakar](people/atheer-bin-shakar.md) — initial_profile
 - [Atif Albreiki](people/atif-albreiki.md) — researched_with_gaps
 - [Heba Ahmad](people/heba-ahmad.md) — researched_with_gaps
+- [Faisal Kazim](people/faisal-kazim.md) — researched_with_gaps
 - [Al-Futtaim Group](organizations/al-futtaim.md) — researched_with_gaps
 - [Applied Invention](organizations/applied-invention.md) — researched_with_gaps
 - [DP World](organizations/dp-world.md) — researched_with_gaps
 - [Dubai Chamber of Digital Economy](organizations/dubai-chambers-ai-hub.md) — researched_with_gaps
 - [Dubai Electronic Security Center](organizations/dubai-electronic-security-center.md) — researched_with_gaps
+- [Dubai Films and Games Commission](organizations/dubai-films-games-commission.md) — researched_with_gaps
 - [Dubai Future Foundation](organizations/dubai-future-foundation.md) — researched_with_gaps
 - [Dubai Health](organizations/dubai-health.md) — researched_with_gaps
 - [Dubai International Financial Centre (DIFC)](organizations/difc.md) — researched_with_gaps
+- [Dubai Media Incorporated (DMI)](organizations/dubai-media.md) — researched_with_gaps
 - [Dubai Municipality](organizations/dubai-municipality.md) — researched_with_gaps
 - [Emirates Global Aluminium](organizations/emirates-global-aluminium.md) — researched_with_gaps
 - [European Space Agency](organizations/european-space-agency.md) — researched_with_gaps
@@ -73,4 +77,4 @@
 - [Advanced Robotics Centre, National University of Singapore](organizations/nus-advanced-robotics-centre.md) — researched_with_gaps
 - [OMNIYAT](organizations/omniyat.md) — researched_with_gaps
 
-Следующая партия: городские и инфраструктурные участники: Dubai Media Incorporated/Atheer Bin Shakar, Dubai Films and Games Commission/Faisal Kazim; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: городские и инфраструктурные участники: Jude Ower/Good Game Club, Near Future Laboratory/Julian Bleecker; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.

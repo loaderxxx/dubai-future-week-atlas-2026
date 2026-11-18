@@ -16,3 +16,5 @@
 - **University of Canberra / Collaborative Robotics Lab; NUS / Advanced Robotics Centre**: две лаборатории добавлены как отдельные записи, а не как эквиваленты университетов. Очередь после этой партии569. Источники: [CRL](https://collaborativeroboticslab.github.io/), [ARC](https://arc.nus.edu.sg/).
 
 - **Expo City / Expo City Dubai**: профиль покрывает каноническую запись Expo City Dubai; алиас Expo City пока не добавляет исследованную сущность. **RTA** здесь означает Roads and Transport Authority Dubai, не Department of Municipalities and Transport Abu Dhabi. **OMNIYAT** добавлен отдельной организацией по официальному списку Strategic Partners DFW, а не по предположению об участии спикера. Очередь после партии: 570 записей. [DFW](https://www.dubaifutureweek.com/en).
+
+- **Dubai Media / Dubai Media Incorporated (DMI) / Dubai Media Inc**: публичный профиль учтён под канонической записью Dubai Media Incorporated (DMI), исходный алиас Dubai Media Inc не увеличивает счётчик покрытия. Dubai Films and Games Commission рассматривается отдельно; не подменять её другими медиаорганизациями или кинофестивалями.
