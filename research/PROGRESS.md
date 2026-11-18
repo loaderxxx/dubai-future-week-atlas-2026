@@ -2,14 +2,15 @@
 
 Обновлено18Nov2026.
 
-Профили: 45 / 566 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 49 / 567 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 22 / 265; организации: 21 / 201; проекты: 2 / 100.
+Люди: 25 / 265; организации: 22 / 202; проекты: 2 / 100.
 
 - [Amy Webb](people/amy-webb.md) — researched_with_gaps
 - [Carlo Ratti](people/carlo-ratti.md) — researched_with_gaps
 - [Ibrahim Al Najjar](people/ibrahim-al-najjar.md) — researched_with_gaps
 - [Ayman Itani](people/ayman-itani.md) — researched_with_gaps
+- [Ian Cheng](people/ian-cheng.md) — researched_with_gaps
 - [Kanwal Aalijah](people/kanwal-aalijah.md) — researched_with_gaps
 - [Tammer Qaddumi](people/tammer-qaddumi.md) — researched_with_gaps
 - [Danny Hillis](people/danny-hillis.md) — researched_with_gaps
@@ -18,9 +19,11 @@
 - [Khalifa Alqama](people/khalifa-alqama.md) — researched_with_gaps
 - [Lana Abdelhameed](people/lana-abdelhameed.md) — researched_with_gaps
 - [Melanie Subin](people/melanie-subin.md) — researched_with_gaps
+- [Daniel Simu](people/daniel-simu.md) — researched_with_gaps
 - [Pat Pataranutaporn](people/pat-pataranutaporn.md) — researched_with_gaps
 - [Yacine Hadjiat](people/yacine-hadjiat.md) — researched_with_gaps
 - [Cyprien Nshimiyimana](people/cyprien-nshimiyimana.md) — researched_with_gaps
+- [Joel Pearson](people/joel-pearson.md) — researched_with_gaps
 - [Heba Chehade](people/heba-chehade.md) — researched_with_gaps
 - [Tadeu Caravieri](people/tadeu-caravieri.md) — researched_with_gaps
 - [Adrian Marcellus](people/adrian-marcellus.md) — researched_with_gaps
@@ -51,5 +54,6 @@
 - [XPANCEO](organizations/xpanceo.md) — researched_with_gaps
 - [SystemsML](projects/systemsml.md) — initial_profile
 - [Litmus](projects/litmus.md) — researched_with_gaps
+- [UNSW Future Minds Lab](organizations/unsw-future-minds-lab.md) — researched_with_gaps
 
-Следующая партия: следующие направления: Joel Pearson/UNSW, Ian Cheng и художественные AI-практики; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: следующие направления: Damith Herath/University of Canberra, Cecilia Laschi/NUS, затем оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
