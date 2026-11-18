@@ -2,11 +2,11 @@
 
 Обновлено18Nov2026.
 
-Профили: 78 / 570 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 82 / 570 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 41 / 265; организации: 35 / 205; проекты: 2 / 100.
+Люди: 43 / 265; организации: 37 / 205; проекты: 2 / 100.
 
-Статусы: 74 researched_with_gaps; 4 initial_profile. Ни один статус не означает полного аудита.
+Статусы: 78 researched_with_gaps; 4 initial_profile. Ни один статус не означает полного аудита.
 
 - [Marwan Ahmed Bin Ghalita](people/marwan-ahmed-bin-ghalita.md) — researched_with_gaps
 - [Amy Webb](people/amy-webb.md) — researched_with_gaps
@@ -32,11 +32,13 @@
 - [Laura Aymerich-Franch](people/laura-aymerich-franch.md) — researched_with_gaps
 - [Pat Pataranutaporn](people/pat-pataranutaporn.md) — researched_with_gaps
 - [Yacine Hadjiat](people/yacine-hadjiat.md) — researched_with_gaps
+- [Tina Woods](people/tina-woods.md) — researched_with_gaps
 - [Jude Ower](people/jude-ower.md) — researched_with_gaps
 - [Cyprien Nshimiyimana](people/cyprien-nshimiyimana.md) — researched_with_gaps
 - [Roman Axelrod](people/roman-axelrod.md) — researched_with_gaps
 - [Joel Pearson](people/joel-pearson.md) — researched_with_gaps
 - [Heba Chehade](people/heba-chehade.md) — researched_with_gaps
+- [Nic Palmarini](people/nic-palmarini.md) — researched_with_gaps
 - [Tadeu Caravieri](people/tadeu-caravieri.md) — researched_with_gaps
 - [Marjan Faraidooni](people/marjan-faraidooni.md) — researched_with_gaps
 - [Adrian Marcellus](people/adrian-marcellus.md) — researched_with_gaps
@@ -51,6 +53,7 @@
 - [Faisal Kazim](people/faisal-kazim.md) — researched_with_gaps
 - [Al-Futtaim Group](organizations/al-futtaim.md) — researched_with_gaps
 - [Applied Invention](organizations/applied-invention.md) — researched_with_gaps
+- [Collider Health](organizations/collider-health.md) — researched_with_gaps
 - [DP World](organizations/dp-world.md) — researched_with_gaps
 - [Dubai Chamber of Digital Economy](organizations/dubai-chambers-ai-hub.md) — researched_with_gaps
 - [Dubai Electronic Security Center](organizations/dubai-electronic-security-center.md) — researched_with_gaps
@@ -71,6 +74,7 @@
 - [MIT Senseable City Lab](organizations/mit-senseable-city-lab.md) — researched_with_gaps
 - [Malaysia C4IR](organizations/malaysia-c4ir.md) — researched_with_gaps
 - [Meta](organizations/meta.md) — researched_with_gaps
+- [National Innovation Centre for Ageing](organizations/nica.md) — researched_with_gaps
 - [Near Future Laboratory](organizations/near-future-laboratory.md) — researched_with_gaps
 - [Oxa](organizations/oxa.md) — researched_with_gaps
 - [Prototypes for Humanity](organizations/prototypes-for-humanity.md) — researched_with_gaps
@@ -87,4 +91,4 @@
 - [Advanced Robotics Centre, National University of Singapore](organizations/nus-advanced-robotics-centre.md) — researched_with_gaps
 - [OMNIYAT](organizations/omniyat.md) — researched_with_gaps
 
-Следующая партия: городские и инфраструктурные участники: Nic Palmarini/National Innovation Centre for Ageing и Tina Woods/Collider Health; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: городские и инфраструктурные участники: Catarina Tully/School of International Futures и Sohail Inayatullah/Metafuture; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.

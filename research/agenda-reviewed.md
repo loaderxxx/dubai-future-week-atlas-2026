@@ -44,10 +44,12 @@
 | 13:45–14:00 | [Beyond Screens: A New Layer of Human Capability](https://www.dubaifutureweek.com/en/programme?session=SESMR981WUG) | [Roman Axelrod](people/roman-axelrod.md) | public | The Challenge Dome |
 | 14:00–16:00 | [An Expedition into Possibility: A Design Fiction Workshop](https://www.dubaifutureweek.com/en/programme?session=SESN4Y9VLLZ) | [Julian Bleecker](people/julian-bleecker.md) | public | The Learning Centre |
 | 14:00–15:00 | [Sector Final: Heat & Climate-Adapted Infrastructure](https://www.dubaifutureweek.com/en/programme?session=SESP465QC63) | [Hana Alzarooni](people/hana-alzarooni.md) | invite_only | The Pitch |
+| 14:00–16:00 | [The Parliament of the Republic of Longevity](https://www.dubaifutureweek.com/en/programme?session=SES1LBCDTM6) | [Nic Palmarini](people/nic-palmarini.md) | public | The Challenge Dome |
 | 15:00–15:15 | [Robots will Make Us More Human, Actually](https://www.dubaifutureweek.com/en/programme?session=SES78M8WBUM) | [Kaname Hayashi](people/kaname-hayashi.md) | public | The Big Stage |
 | 15:30–16:10 | [Can We Design Cities That Breathe?](https://www.dubaifutureweek.com/en/programme?session=SESDY7M8OZ0) | [Marjan Faraidooni](people/marjan-faraidooni.md) | public | The Big Stage |
 | 16:00–17:30 | [Claude As Your Co-Founder](https://www.dubaifutureweek.com/en/programme?session=SESL7KFKA0H) | [Ayman Itani](people/ayman-itani.md) | public | The Work Room 02 |
 | 16:15–16:30 | [Where the Research Goes Next](https://www.dubaifutureweek.com/en/programme?session=SESEATI8FHG) | [Carlo Ratti](people/carlo-ratti.md) | invite_only | STARS |
+| 17:00–19:00 | [Silent Jam by Longevity Rave](https://www.dubaifutureweek.com/en/programme?session=SES5ZI7EUDN) | [Tina Woods](people/tina-woods.md) | public | The Challenge Dome |
 
 ## 2026-11-20
 
