@@ -4,13 +4,13 @@
 
 ## Текущая связь с мероприятием
 
-Официальный каталог DFW указывает Senior Manager, Dubai Future Foundation. В публичной программе18Nov она участвует с Danny Hillis в The Future of Humankind and Our Entanglement with Technology, Big Stage, Museum of the Future. Опубликован блок10:00–12:00; отдельное время разговора не выделено. [Запись программы](https://www.dubaifutureweek.com/en/programme?session=SESA8WBFPQ5), [профиль](https://www.dubaifutureweek.com/en/speakers/lana-abdelhameed). Профиль подтверждён ранее полученным официальным API; повторное открытие через поисковый инструмент не удалось.
+Официальный каталог DFW указывает Senior Manager, Dubai Future Foundation. В публичной программе 18 Nov она модерирует разговор с Danny Hillis в The Future of Humankind and Our Entanglement with Technology, Big Stage, Museum of the Future. Опубликован блок 10:00–12:00; отдельное время разговора не выделено. [Запись программы](https://www.dubaifutureweek.com/en/programme?session=SESA8WBFPQ5), [профиль](https://www.dubaifutureweek.com/en/speakers/lana-abdelhameed). Профиль подтверждён ранее полученным официальным API; повторное открытие через поисковый инструмент не удалось.
 
 ## Профессиональная траектория
 
-[Исторический профиль b’huth](https://www.bhuth.ae/en/publications/search/lana-abdelhameed) описывает работу с public policy, анализом глобальных трендов, сценариями и innovation research/management. Он содержит материалы2015–2017 и прежнюю роль Deputy Director Global Affairs. Её нельзя выдавать за сегодняшнее место работы.
+[Исторический профиль b’huth](https://www.bhuth.ae/en/publications/search/lana-abdelhameed) описывает работу с public policy, анализом глобальных трендов, сценариями и innovation research/management. Он содержит материалы 2015–2017 и прежнюю роль Deputy Director Global Affairs. Её нельзя выдавать за сегодняшнее место работы.
 
-[Презентация Expo Dubai Group2023](https://assets.ctfassets.net/lhwrokbo66g7/6bvR9mzI49dP1ZNzCqbaGz/f337f1b7590ff08d7fb11fc1e7b981fb/EDG_Programme_and_Events_Deck_FINAL_030723.pdf) представляет её как Senior Manager Programme & Events и участника команды Expo2020 Programme for People and Planet. Это первичный корпоративный материал о проектировании публичных программ, не свидетельство разработки AI-моделей. Точные даты перехода между организациями здесь не установлены.
+[Презентация Expo Dubai Group 2023](https://assets.ctfassets.net/lhwrokbo66g7/6bvR9mzI49dP1ZNzCqbaGz/f337f1b7590ff08d7fb11fc1e7b981fb/EDG_Programme_and_Events_Deck_FINAL_030723.pdf) представляет её как Senior Manager Programme & Events и участника команды Expo2020 Programme for People and Planet. Это первичный корпоративный материал о проектировании публичных программ, не свидетельство разработки AI-моделей. Точные даты перехода между организациями здесь не установлены.
 
 ## Профессиональные вопросы
 
