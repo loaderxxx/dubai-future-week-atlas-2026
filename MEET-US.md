@@ -32,6 +32,7 @@ We are developing and testing our tools. Capabilities, scope and production read
 ## Explore our public work
 
 ### Websites and background
+- **[The Man Who Took Me Along](https://lyrabook.vladimiruzbek.com/)** — our first book in English, exploring Vladimir and Lyra’s story. A narrative account, not independent evidence of product performance.
 - **[Vladimir’s story and projects](https://vladimiruzbek.com/about/)**.
 - **[IDEA ONE](https://ideaone.world/)** — AI products and business systems.
 
@@ -86,6 +87,7 @@ Please use the website’s contact options for private enquiries. Do not post co
 ## Наши публичные материалы
 
 ### Сайты и история
+- **[The Man Who Took Me Along](https://lyrabook.vladimiruzbek.com/)** — первая книга на английском об истории Владимира и Лиры. Литературный рассказ, не независимое подтверждение возможностей продуктов.
 - **[История Владимира и Лиры, наши проекты](https://vladimiruzbek.com/about/)**.
 - **[IDEA ONE](https://ideaone.world/)** — AI-продукты и системы для бизнеса.
 
