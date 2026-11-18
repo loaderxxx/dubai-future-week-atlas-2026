@@ -2,11 +2,11 @@
 
 Обновлено18Nov2026.
 
-Профили: 68 / 570 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 72 / 570 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 35 / 265; организации: 31 / 205; проекты: 2 / 100.
+Люди: 37 / 265; организации: 33 / 205; проекты: 2 / 100.
 
-Статусы: 64 researched_with_gaps; 4 initial_profile. Ни один статус не означает полного аудита.
+Статусы: 68 researched_with_gaps; 4 initial_profile. Ни один статус не означает полного аудита.
 
 - [Marwan Ahmed Bin Ghalita](people/marwan-ahmed-bin-ghalita.md) — researched_with_gaps
 - [Amy Webb](people/amy-webb.md) — researched_with_gaps
@@ -21,6 +21,7 @@
 - [Tammer Qaddumi](people/tammer-qaddumi.md) — researched_with_gaps
 - [Danny Hillis](people/danny-hillis.md) — researched_with_gaps
 - [Tom Gruber](people/tom-gruber.md) — researched_with_gaps
+- [Julian Bleecker](people/julian-bleecker.md) — researched_with_gaps
 - [Dr Patrick Noack](people/patrick-noack.md) — researched_with_gaps
 - [Khalifa Alqama](people/khalifa-alqama.md) — researched_with_gaps
 - [Lana Abdelhameed](people/lana-abdelhameed.md) — researched_with_gaps
@@ -28,6 +29,7 @@
 - [Daniel Simu](people/daniel-simu.md) — researched_with_gaps
 - [Pat Pataranutaporn](people/pat-pataranutaporn.md) — researched_with_gaps
 - [Yacine Hadjiat](people/yacine-hadjiat.md) — researched_with_gaps
+- [Jude Ower](people/jude-ower.md) — researched_with_gaps
 - [Cyprien Nshimiyimana](people/cyprien-nshimiyimana.md) — researched_with_gaps
 - [Joel Pearson](people/joel-pearson.md) — researched_with_gaps
 - [Heba Chehade](people/heba-chehade.md) — researched_with_gaps
@@ -58,11 +60,13 @@
 - [European Space Agency](organizations/european-space-agency.md) — researched_with_gaps
 - [Expo City Dubai](organizations/expo-city-dubai.md) — researched_with_gaps
 - [Future Today Strategy Group](organizations/ftsg.md) — researched_with_gaps
+- [Good Game Club](organizations/good-game-club.md) — researched_with_gaps
 - [Humanistic.AI](organizations/humanistic-ai.md) — researched_with_gaps
 - [Keeta Drone](organizations/keeta-drone.md) — researched_with_gaps
 - [MIT Senseable City Lab](organizations/mit-senseable-city-lab.md) — researched_with_gaps
 - [Malaysia C4IR](organizations/malaysia-c4ir.md) — researched_with_gaps
 - [Meta](organizations/meta.md) — researched_with_gaps
+- [Near Future Laboratory](organizations/near-future-laboratory.md) — researched_with_gaps
 - [Prototypes for Humanity](organizations/prototypes-for-humanity.md) — researched_with_gaps
 - [RTA](organizations/dubai-rta.md) — researched_with_gaps
 - [Rwanda C4IR](organizations/rwanda-c4ir.md) — researched_with_gaps
@@ -77,4 +81,4 @@
 - [Advanced Robotics Centre, National University of Singapore](organizations/nus-advanced-robotics-centre.md) — researched_with_gaps
 - [OMNIYAT](organizations/omniyat.md) — researched_with_gaps
 
-Следующая партия: городские и инфраструктурные участники: Jude Ower/Good Game Club, Near Future Laboratory/Julian Bleecker; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: городские и инфраструктурные участники: Laura Aymerich-Franch и Paul Newman/Oxa; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.

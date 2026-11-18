@@ -16,7 +16,7 @@
 | 11:20–12:00 | [Humans at the Heart of Innovation in the Age of AI](https://www.dubaifutureweek.com/en/programme?session=SESCCWY9SUT) | [Yacine Hadjiat](people/yacine-hadjiat.md) | invite_only | STARS |
 | 12:00–12:50 | [Pitch of the Future: Healthspan & Preventive Health](https://www.dubaifutureweek.com/en/programme?session=SESBMWRMV7D) | [Yacine Hadjiat](people/yacine-hadjiat.md) | invite_only | The Pitch |
 | 12:00–12:40 | [The Art in the Machine: Robotics Reimagined](https://www.dubaifutureweek.com/en/programme?session=SESVHLD619X) | [Damith Herath](people/damith-herath.md), [Daniel Simu](people/daniel-simu.md) | invite_only | STARS |
-| 12:30–13:30 | [Gaming for Good](https://www.dubaifutureweek.com/en/programme?session=SESACL8CREI) | [Faisal Kazim](people/faisal-kazim.md) | public | The Work Room 02 |
+| 12:30–13:30 | [Gaming for Good](https://www.dubaifutureweek.com/en/programme?session=SESACL8CREI) | [Jude Ower](people/jude-ower.md), [Faisal Kazim](people/faisal-kazim.md) | public | The Work Room 02 |
 | 13:40–14:15 | [Cognitive Atrophy: Are We Thinking Less, as AI Thinks More?](https://www.dubaifutureweek.com/en/programme?session=SESFRXS5FEA) | [Joel Pearson](people/joel-pearson.md), [Melanie Subin](people/melanie-subin.md) | invite_only | STARS |
 | 14:00–15:00 | [Sector Final: Healthspan & Preventative Health](https://www.dubaifutureweek.com/en/programme?session=SES6M2UHVZ1) | [Yacine Hadjiat](people/yacine-hadjiat.md) | invite_only | The Pitch |
 | 14:50–15:30 | [From Orbit to Operations: Space Technology as an R&D Engine](https://www.dubaifutureweek.com/en/programme?session=SES8GB6DUQ9) | [Nick Appleyard](people/nick-appleyard.md), [Khaled Al Awadhi](people/khaled-al-awadhi.md) | invite_only | STARS |
@@ -35,10 +35,12 @@
 | 10:30–12:30 | [Government Foresight Peers: Sensemaking](https://www.dubaifutureweek.com/en/programme?session=SESTCDKBYT6) | [Heba Chehade](people/heba-chehade.md) | invite_only | Dubai Future Auditorium |
 | 10:30–10:40 | [A Big Welcome: Open Labs Edition](https://www.dubaifutureweek.com/en/programme?session=SES4NAVUXWB) | [Carlo Ratti](people/carlo-ratti.md) | invite_only | STARS |
 | 11:00–11:30 | [The City That Never Sleeps](https://www.dubaifutureweek.com/en/programme?session=SES1PK86JLQ) | [Marwan Ahmed Bin Ghalita](people/marwan-ahmed-bin-ghalita.md) | public | The Challenge Dome |
+| 11:15–11:35 | [The Future Is too Important to Be Boring](https://www.dubaifutureweek.com/en/programme?session=SES1AS9ZXFL) | [Julian Bleecker](people/julian-bleecker.md) | public | The Big Stage |
 | 11:50–12:50 | [How Cities Adapt to a Changing Climate](https://www.dubaifutureweek.com/en/programme?session=SESHMTTH7IX) | [Khalifa Alqama](people/khalifa-alqama.md) | invite_only | STARS |
 | 12:00–13:00 | [Pitch of the Future: Heat & Climate Adapted Infrastructure](https://www.dubaifutureweek.com/en/programme?session=SESZYVK5L0N) | [Hana Alzarooni](people/hana-alzarooni.md) | invite_only | The Pitch |
 | 12:00–13:00 | [Claude for Government: From Shadow AI to Safe AI Use](https://www.dubaifutureweek.com/en/programme?session=SES9SPGKYKE) | [Ayman Itani](people/ayman-itani.md) | invite_only | Partner's Lounge |
 | 12:30–13:30 | [Government Foresight Peers: In Practice](https://www.dubaifutureweek.com/en/programme?session=SES0PGE6SF3) | [Heba Ahmad](people/heba-ahmad.md) | invite_only | Dubai Future Auditorium |
+| 14:00–16:00 | [An Expedition into Possibility: A Design Fiction Workshop](https://www.dubaifutureweek.com/en/programme?session=SESN4Y9VLLZ) | [Julian Bleecker](people/julian-bleecker.md) | public | The Learning Centre |
 | 14:00–15:00 | [Sector Final: Heat & Climate-Adapted Infrastructure](https://www.dubaifutureweek.com/en/programme?session=SESP465QC63) | [Hana Alzarooni](people/hana-alzarooni.md) | invite_only | The Pitch |
 | 15:30–16:10 | [Can We Design Cities That Breathe?](https://www.dubaifutureweek.com/en/programme?session=SESDY7M8OZ0) | [Marjan Faraidooni](people/marjan-faraidooni.md) | public | The Big Stage |
 | 16:00–17:30 | [Claude As Your Co-Founder](https://www.dubaifutureweek.com/en/programme?session=SESL7KFKA0H) | [Ayman Itani](people/ayman-itani.md) | public | The Work Room 02 |
