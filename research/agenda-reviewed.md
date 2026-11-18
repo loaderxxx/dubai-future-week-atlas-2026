@@ -18,7 +18,7 @@
 | 12:00–12:40 | [The Art in the Machine: Robotics Reimagined](https://www.dubaifutureweek.com/en/programme?session=SESVHLD619X) | [Damith Herath](people/damith-herath.md), [Daniel Simu](people/daniel-simu.md) | invite_only | STARS |
 | 13:40–14:15 | [Cognitive Atrophy: Are We Thinking Less, as AI Thinks More?](https://www.dubaifutureweek.com/en/programme?session=SESFRXS5FEA) | [Joel Pearson](people/joel-pearson.md), [Melanie Subin](people/melanie-subin.md) | invite_only | STARS |
 | 14:00–15:00 | [Sector Final: Healthspan & Preventative Health](https://www.dubaifutureweek.com/en/programme?session=SES6M2UHVZ1) | [Yacine Hadjiat](people/yacine-hadjiat.md) | invite_only | The Pitch |
-| 14:50–15:30 | [From Orbit to Operations: Space Technology as an R&D Engine](https://www.dubaifutureweek.com/en/programme?session=SES8GB6DUQ9) | [Nick Appleyard](people/nick-appleyard.md) | invite_only | STARS |
+| 14:50–15:30 | [From Orbit to Operations: Space Technology as an R&D Engine](https://www.dubaifutureweek.com/en/programme?session=SES8GB6DUQ9) | [Nick Appleyard](people/nick-appleyard.md), [Khaled Al Awadhi](people/khaled-al-awadhi.md) | invite_only | STARS |
 | 15:00–16:00 | [The Many Futures of AI Across Borders](https://www.dubaifutureweek.com/en/programme?session=SESACIECZVE) | [Dr Patrick Noack](people/patrick-noack.md), [Cyprien Nshimiyimana](people/cyprien-nshimiyimana.md), [Adrian Marcellus](people/adrian-marcellus.md), [Kanwal Aalijah](people/kanwal-aalijah.md) | public | The Work Room 02 |
 | 16:30–18:00 | [Claude As Your Co-Founder](https://www.dubaifutureweek.com/en/programme?session=SESFWJCZW4D) | [Ayman Itani](people/ayman-itani.md) | public | The Work Room 02 |
 | 18:00–21:00 | [YPO MENA One Futures Event](https://www.dubaifutureweek.com/en/programme?session=SES6NV3OXWH) | [Amy Webb](people/amy-webb.md) | invite_only | The Learning Centre |
@@ -34,8 +34,10 @@
 | 10:30–12:30 | [Government Foresight Peers: Sensemaking](https://www.dubaifutureweek.com/en/programme?session=SESTCDKBYT6) | [Heba Chehade](people/heba-chehade.md) | invite_only | Dubai Future Auditorium |
 | 10:30–10:40 | [A Big Welcome: Open Labs Edition](https://www.dubaifutureweek.com/en/programme?session=SES4NAVUXWB) | [Carlo Ratti](people/carlo-ratti.md) | invite_only | STARS |
 | 11:50–12:50 | [How Cities Adapt to a Changing Climate](https://www.dubaifutureweek.com/en/programme?session=SESHMTTH7IX) | [Khalifa Alqama](people/khalifa-alqama.md) | invite_only | STARS |
+| 12:00–13:00 | [Pitch of the Future: Heat & Climate Adapted Infrastructure](https://www.dubaifutureweek.com/en/programme?session=SESZYVK5L0N) | [Hana Alzarooni](people/hana-alzarooni.md) | invite_only | The Pitch |
 | 12:00–13:00 | [Claude for Government: From Shadow AI to Safe AI Use](https://www.dubaifutureweek.com/en/programme?session=SES9SPGKYKE) | [Ayman Itani](people/ayman-itani.md) | invite_only | Partner's Lounge |
 | 12:30–13:30 | [Government Foresight Peers: In Practice](https://www.dubaifutureweek.com/en/programme?session=SES0PGE6SF3) | [Heba Ahmad](people/heba-ahmad.md) | invite_only | Dubai Future Auditorium |
+| 14:00–15:00 | [Sector Final: Heat & Climate-Adapted Infrastructure](https://www.dubaifutureweek.com/en/programme?session=SESP465QC63) | [Hana Alzarooni](people/hana-alzarooni.md) | invite_only | The Pitch |
 | 15:30–16:10 | [Can We Design Cities That Breathe?](https://www.dubaifutureweek.com/en/programme?session=SESDY7M8OZ0) | [Marjan Faraidooni](people/marjan-faraidooni.md) | public | The Big Stage |
 | 16:00–17:30 | [Claude As Your Co-Founder](https://www.dubaifutureweek.com/en/programme?session=SESL7KFKA0H) | [Ayman Itani](people/ayman-itani.md) | public | The Work Room 02 |
 | 16:15–16:30 | [Where the Research Goes Next](https://www.dubaifutureweek.com/en/programme?session=SESEATI8FHG) | [Carlo Ratti](people/carlo-ratti.md) | invite_only | STARS |
@@ -59,3 +61,4 @@
 | 13:00–13:30 | [Acrobot: The Human-Robot Duet](https://www.dubaifutureweek.com/en/programme?session=SESBWEIKN89) | [Daniel Simu](people/daniel-simu.md) | public | The Challenge Dome |
 | 13:40–14:20 | [Built It, Studied It: What Happens When You Live With an AI that Remembers You](https://www.dubaifutureweek.com/en/programme?session=SESTHY2VBLC) | [Pat Pataranutaporn](people/pat-pataranutaporn.md), [Ian Cheng](people/ian-cheng.md) | invite_only | STARS |
 | 14:50–15:20 | [Cyborg Psychology: The Mind After AI](https://www.dubaifutureweek.com/en/programme?session=SESF6ADCGB3) | [Pat Pataranutaporn](people/pat-pataranutaporn.md) | public | The Big Stage |
+| 15:20–15:55 | [The AI Exchange: Business and Government Learnings](https://www.dubaifutureweek.com/en/programme?session=SESL10KJKFO) | [Ahmad Bahrozyan](people/ahmad-bahrozyan.md) | public | The Big Stage |

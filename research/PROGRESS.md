@@ -2,9 +2,9 @@
 
 Обновлено18Nov2026.
 
-Профили: 57 / 570 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 61 / 570 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 28 / 265; организации: 27 / 205; проекты: 2 / 100.
+Люди: 31 / 265; организации: 28 / 205; проекты: 2 / 100.
 
 - [Amy Webb](people/amy-webb.md) — researched_with_gaps
 - [Damith Herath](people/damith-herath.md) — researched_with_gaps
@@ -14,6 +14,7 @@
 - [Ayman Itani](people/ayman-itani.md) — researched_with_gaps
 - [Ian Cheng](people/ian-cheng.md) — researched_with_gaps
 - [Kanwal Aalijah](people/kanwal-aalijah.md) — researched_with_gaps
+- [Khaled Al Awadhi](people/khaled-al-awadhi.md) — researched_with_gaps
 - [Tammer Qaddumi](people/tammer-qaddumi.md) — researched_with_gaps
 - [Danny Hillis](people/danny-hillis.md) — researched_with_gaps
 - [Tom Gruber](people/tom-gruber.md) — researched_with_gaps
@@ -30,7 +31,9 @@
 - [Tadeu Caravieri](people/tadeu-caravieri.md) — researched_with_gaps
 - [Marjan Faraidooni](people/marjan-faraidooni.md) — researched_with_gaps
 - [Adrian Marcellus](people/adrian-marcellus.md) — researched_with_gaps
+- [Hana Alzarooni](people/hana-alzarooni.md) — initial_profile
 - [Abdulla Alzarouni](people/abdulla-alzarouni.md) — initial_profile
+- [Ahmad Bahrozyan](people/ahmad-bahrozyan.md) — researched_with_gaps
 - [Nick Appleyard](people/nick-appleyard.md) — researched_with_gaps
 - [Atif Albreiki](people/atif-albreiki.md) — researched_with_gaps
 - [Heba Ahmad](people/heba-ahmad.md) — researched_with_gaps
@@ -42,6 +45,7 @@
 - [Dubai Future Foundation](organizations/dubai-future-foundation.md) — researched_with_gaps
 - [Dubai Health](organizations/dubai-health.md) — researched_with_gaps
 - [Dubai International Financial Centre (DIFC)](organizations/difc.md) — researched_with_gaps
+- [Dubai Municipality](organizations/dubai-municipality.md) — researched_with_gaps
 - [European Space Agency](organizations/european-space-agency.md) — researched_with_gaps
 - [Expo City Dubai](organizations/expo-city-dubai.md) — researched_with_gaps
 - [Future Today Strategy Group](organizations/ftsg.md) — researched_with_gaps
@@ -64,4 +68,4 @@
 - [Advanced Robotics Centre, National University of Singapore](organizations/nus-advanced-robotics-centre.md) — researched_with_gaps
 - [OMNIYAT](organizations/omniyat.md) — researched_with_gaps
 
-Следующая партия: городские и инфраструктурные участники: Dubai Municipality/Hana Alzarooni, Khaled Al Awadhi и Ahmad Bahrozyan (RTA); далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: городские и инфраструктурные участники: Marwan Ahmed Bin Ghalita, Emirates Global Aluminium и Marc Carette; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
