@@ -6,7 +6,7 @@
 2. **AI Grandmaster Challenge**, 10:00–17:00, Challenge Dome, Emirates Towers outdoor. Public. Смотреть рабочие решения, знакомиться с командами после выступлений, спрашивать об оценке качества и оркестрации. Это посещение, не регистрация в финал конкурса.
 3. **Prototypes for Humanity**, 09:00–18:00, Prototype Floor, Emirates Towers ground floor. Public. Выбрать 3–5 команд с ясной прикладной задачей из каталога100, а не пытаться поговорить со всеми. Вопрос: какой ручной этап мешает внедрению прототипа?
 4. **Tom Gruber — What if AI Worked Only for You?**, Big Stage, Museum of the Future auditorium. Public, опубликованный блок10:00–12:00, не двухчасовая сольная лекция. Для разговора: контроль пользователя, согласия, память и доверие к персональным агентам.
-5. **Claude As Your Co-Founder**, Ayman Itani, 16:30–18:00, Work Room02, Emirates Towers ground floor. Public workshop. Проверить бронирование/места в приложении. Альтернатива19Nov16:00–17:30.
+5. **Claude As Your Co-Founder**, Ayman Itani, 16:30–18:00, Work Room02, Emirates Towers ground floor. Public workshop. Организатор требует ОБЕ регистрации: [Luma](https://luma.com/claude-nj5q) и DFW. Места/approval не проверены. Альтернатива19Nov16:00–17:30 имеет отдельные условия, их нужно проверить.
 
 ## Не считать общедоступным
 
