@@ -2,18 +2,20 @@
 
 Обновлено18Nov2026.
 
-Профили: 37 / 566 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 40 / 566 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 17 / 265; организации: 18 / 201; проекты: 2 / 100.
+Люди: 19 / 265; организации: 19 / 201; проекты: 2 / 100.
 
 - [Ibrahim Al Najjar](people/ibrahim-al-najjar.md) — researched_with_gaps
 - [Ayman Itani](people/ayman-itani.md) — researched_with_gaps
 - [Kanwal Aalijah](people/kanwal-aalijah.md) — researched_with_gaps
+- [Tammer Qaddumi](people/tammer-qaddumi.md) — researched_with_gaps
 - [Danny Hillis](people/danny-hillis.md) — researched_with_gaps
 - [Tom Gruber](people/tom-gruber.md) — researched_with_gaps
 - [Dr Patrick Noack](people/patrick-noack.md) — researched_with_gaps
 - [Khalifa Alqama](people/khalifa-alqama.md) — researched_with_gaps
 - [Lana Abdelhameed](people/lana-abdelhameed.md) — researched_with_gaps
+- [Pat Pataranutaporn](people/pat-pataranutaporn.md) — researched_with_gaps
 - [Yacine Hadjiat](people/yacine-hadjiat.md) — researched_with_gaps
 - [Cyprien Nshimiyimana](people/cyprien-nshimiyimana.md) — researched_with_gaps
 - [Heba Chehade](people/heba-chehade.md) — researched_with_gaps
@@ -40,8 +42,9 @@
 - [Rwanda C4IR](organizations/rwanda-c4ir.md) — researched_with_gaps
 - [Think Media Labs](organizations/think-media-labs.md) — researched_with_gaps
 - [Uber](organizations/uber.md) — researched_with_gaps
+- [Venture Souq](organizations/venture-souq.md) — researched_with_gaps
 - [XPANCEO](organizations/xpanceo.md) — researched_with_gaps
 - [SystemsML](projects/systemsml.md) — initial_profile
 - [Litmus](projects/litmus.md) — researched_with_gaps
 
-Следующая партия: исследовательские и коммерческие приоритеты: Pat Pataranutaporn, Tammer Qaddumi/Venture Souq, затем оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: следующие направления: Amy Webb/FTSG, Carlo Ratti/MIT Senseable City Lab, затем оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
