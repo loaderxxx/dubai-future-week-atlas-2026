@@ -5,12 +5,12 @@ person,Marwan Ahmed Bin Ghalita,https://www.dubaifutureweek.com/en/speakers/marw
 person,Maryam AlHammadi,https://www.dubaifutureweek.com/en/speakers/maryam-alhammadi,catalogued_not_deeply_researched,
 person,Ohood Al Roumi,https://www.dubaifutureweek.com/en/speakers/ohood-al-roumi,catalogued_not_deeply_researched,
 person,Khalfan Belhoul,https://www.dubaifutureweek.com/en/speakers/khalfan-belhoul,catalogued_not_deeply_researched,
-person,Amy Webb,https://www.dubaifutureweek.com/en/speakers/amy-webb,catalogued_not_deeply_researched,
+person,Amy Webb,https://www.dubaifutureweek.com/en/speakers/amy-webb,researched_with_gaps,research/people/amy-webb.md
 person,Kaname Hayashi,https://www.dubaifutureweek.com/en/speakers/kaname-hayashi,catalogued_not_deeply_researched,
 person,Daan Roosegaarde,https://www.dubaifutureweek.com/en/speakers/daan-roosegaarde,catalogued_not_deeply_researched,
 person,Damith Herath,https://www.dubaifutureweek.com/en/speakers/damith-herath,catalogued_not_deeply_researched,
 person,Amina Khalil,https://www.dubaifutureweek.com/en/speakers/amina-khalil,catalogued_not_deeply_researched,
-person,Carlo Ratti,https://www.dubaifutureweek.com/en/speakers/carlo-ratti,catalogued_not_deeply_researched,
+person,Carlo Ratti,https://www.dubaifutureweek.com/en/speakers/carlo-ratti,researched_with_gaps,research/people/carlo-ratti.md
 person,Cecilia Laschi,https://www.dubaifutureweek.com/en/speakers/cecilia-laschi,catalogued_not_deeply_researched,
 person,Ibrahim Al Najjar,https://www.dubaifutureweek.com/en/speakers/ibrahim-al-najjar,researched_with_gaps,research/people/ibrahim-al-najjar.md
 person,Mohamed Ali,https://www.dubaifutureweek.com/en/speakers/mohamed-ali,catalogued_not_deeply_researched,
@@ -106,7 +106,7 @@ person,Noah Simmons,https://www.dubaifutureweek.com/en/speakers/noah-simmons,cat
 person,Laila Faridoon,https://www.dubaifutureweek.com/en/speakers/laila-faridoon,catalogued_not_deeply_researched,
 person,Brandon Chase,https://www.dubaifutureweek.com/en/speakers/brandon-chase,catalogued_not_deeply_researched,
 person,Ben Ayers,https://www.dubaifutureweek.com/en/speakers/ben-ayers,catalogued_not_deeply_researched,
-person,Melanie Subin,https://www.dubaifutureweek.com/en/speakers/melanie-subin,catalogued_not_deeply_researched,
+person,Melanie Subin,https://www.dubaifutureweek.com/en/speakers/melanie-subin,researched_with_gaps,research/people/melanie-subin.md
 person,Ma Yansong,https://www.dubaifutureweek.com/en/speakers/ma-yansong,catalogued_not_deeply_researched,
 person,Abdelkarim Deesi,https://www.dubaifutureweek.com/en/speakers/abdelkarim-deesi,catalogued_not_deeply_researched,
 person,Mustafa Sayedi,https://www.dubaifutureweek.com/en/speakers/mustafa-sayedi,catalogued_not_deeply_researched,
@@ -327,7 +327,7 @@ organization,Feminist Futures,https://www.dubaifutureweek.com/en/speakers/thays-
 organization,Forbes Middle East,https://www.dubaifutureweek.com/en/speakers/sally-mousa,catalogued_not_deeply_researched,
 organization,Foresight Inside Group,https://www.dubaifutureweek.com/en/speakers/joanna-lepore,catalogued_not_deeply_researched,
 organization,Foresight Vector,https://www.dubaifutureweek.com/en/speakers/steven-kenney,catalogued_not_deeply_researched,
-organization,Future Today Strategy Group,https://www.dubaifutureweek.com/en/speakers/amy-webb,catalogued_not_deeply_researched,
+organization,Future Today Strategy Group,https://www.dubaifutureweek.com/en/speakers/amy-webb,researched_with_gaps,research/organizations/ftsg.md
 organization,Futuremade,https://www.dubaifutureweek.com/en/speakers/tracey-follows,catalogued_not_deeply_researched,
 organization,GROOVE X,https://www.dubaifutureweek.com/en/speakers/kaname-hayashi,catalogued_not_deeply_researched,
 organization,General Secretariat of the Cabinet,https://www.dubaifutureweek.com/en/speakers/khalid-alharmoodi,catalogued_not_deeply_researched,
@@ -371,7 +371,7 @@ organization,MBRSG,https://www.dubaifutureweek.com/en/speakers/akmaral-orazaly,c
 organization,MBZUAI,https://www.dubaifutureweek.com/en/speakers/gus-xia,catalogued_not_deeply_researched,
 organization,MIT,https://www.dubaifutureweek.com/en/speakers/carlo-ratti,catalogued_not_deeply_researched,
 organization,MIT & TU Delft,https://www.dubaifutureweek.com/en/speakers/michiel-van-selm,catalogued_not_deeply_researched,
-organization,MIT Senseable City Lab,https://www.dubaifutureweek.com/en/speakers/titus-venverloo,catalogued_not_deeply_researched,
+organization,MIT Senseable City Lab,https://www.dubaifutureweek.com/en/speakers/titus-venverloo,researched_with_gaps,research/organizations/mit-senseable-city-lab.md
 organization,MIT Senseable Lab,https://www.dubaifutureweek.com/en/speakers/pietro-massone,catalogued_not_deeply_researched,
 organization,Mal,https://www.dubaifutureweek.com/en/speakers/abdallah-abu-sheikh,catalogued_not_deeply_researched,
 organization,Malaysia C4IR,https://www.dubaifutureweek.com/en/speakers/adrian-marcellus,researched_with_gaps,research/organizations/malaysia-c4ir.md

@@ -2,10 +2,12 @@
 
 Обновлено18Nov2026.
 
-Профили: 40 / 566 записей очереди. Остальные не считаются глубоко исследованными.
+Профили: 45 / 566 записей очереди. Остальные не считаются глубоко исследованными.
 
-Люди: 19 / 265; организации: 19 / 201; проекты: 2 / 100.
+Люди: 22 / 265; организации: 21 / 201; проекты: 2 / 100.
 
+- [Amy Webb](people/amy-webb.md) — researched_with_gaps
+- [Carlo Ratti](people/carlo-ratti.md) — researched_with_gaps
 - [Ibrahim Al Najjar](people/ibrahim-al-najjar.md) — researched_with_gaps
 - [Ayman Itani](people/ayman-itani.md) — researched_with_gaps
 - [Kanwal Aalijah](people/kanwal-aalijah.md) — researched_with_gaps
@@ -15,6 +17,7 @@
 - [Dr Patrick Noack](people/patrick-noack.md) — researched_with_gaps
 - [Khalifa Alqama](people/khalifa-alqama.md) — researched_with_gaps
 - [Lana Abdelhameed](people/lana-abdelhameed.md) — researched_with_gaps
+- [Melanie Subin](people/melanie-subin.md) — researched_with_gaps
 - [Pat Pataranutaporn](people/pat-pataranutaporn.md) — researched_with_gaps
 - [Yacine Hadjiat](people/yacine-hadjiat.md) — researched_with_gaps
 - [Cyprien Nshimiyimana](people/cyprien-nshimiyimana.md) — researched_with_gaps
@@ -34,8 +37,10 @@
 - [Dubai Health](organizations/dubai-health.md) — researched_with_gaps
 - [Dubai International Financial Centre (DIFC)](organizations/difc.md) — researched_with_gaps
 - [European Space Agency](organizations/european-space-agency.md) — researched_with_gaps
+- [Future Today Strategy Group](organizations/ftsg.md) — researched_with_gaps
 - [Humanistic.AI](organizations/humanistic-ai.md) — researched_with_gaps
 - [Keeta Drone](organizations/keeta-drone.md) — researched_with_gaps
+- [MIT Senseable City Lab](organizations/mit-senseable-city-lab.md) — researched_with_gaps
 - [Malaysia C4IR](organizations/malaysia-c4ir.md) — researched_with_gaps
 - [Meta](organizations/meta.md) — researched_with_gaps
 - [Prototypes for Humanity](organizations/prototypes-for-humanity.md) — researched_with_gaps
@@ -47,4 +52,4 @@
 - [SystemsML](projects/systemsml.md) — initial_profile
 - [Litmus](projects/litmus.md) — researched_with_gaps
 
-Следующая партия: следующие направления: Amy Webb/FTSG, Carlo Ratti/MIT Senseable City Lab, затем оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
+Следующая партия: следующие направления: Joel Pearson/UNSW, Ian Cheng и художественные AI-практики; далее оставшиеся спикеры и нормализация организаций. Нужна нормализация организаций и дополнительные независимые подтверждения продуктовых заявлений. Никаких исходящих обращений.
